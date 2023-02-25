@@ -1,0 +1,13 @@
+name = "Decor4Fabric・v1.2.1・Fixes & Fences Update"
+filename = "decor4fabric-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efe6798069ace40d71daa9da42ec1432db5630e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361621
+project-id = 524989

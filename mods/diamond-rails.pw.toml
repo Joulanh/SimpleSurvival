@@ -1,0 +1,13 @@
+name = "Diamond Rails"
+filename = "diamondrails-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/60k7nVHi/versions/M2NIPC3D/diamondrails-1.0.0.jar"
+hash-format = "sha1"
+hash = "232dc70245d01d4a2af5d2e95313e6e49631618b"
+
+[update]
+[update.modrinth]
+mod-id = "60k7nVHi"
+version = "M2NIPC3D"

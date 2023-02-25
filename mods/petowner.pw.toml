@@ -1,0 +1,13 @@
+name = "Pet Owner"
+filename = "PetOwner-1.8.3-1.19+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.3/PetOwner-1.8.3-1.19%2B.jar"
+hash-format = "sha1"
+hash = "1ef0f5728952b08e88f486b1034f144cfaddb4c7"
+
+[update]
+[update.modrinth]
+mod-id = "IxUlAAFe"
+version = "rTWELvIk"
