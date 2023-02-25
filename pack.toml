@@ -1,12 +1,12 @@
 name = "Simple Survival"
 author = "MrEnton"
-version = "0.9.15"
+version = "0.9.16"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "39fb0a7a295695c6cb79ff7228e1e5871760c073c3c5a892d9c3758163f64b9f"
+hash = "6b570e9136a27beeb473158c54d466eb81f81af9f740e7eac644b23fb85cfb45"
 
 [versions]
 fabric = "0.14.16"

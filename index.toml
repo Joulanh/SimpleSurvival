@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/petowner.pw.toml"
-hash = "720c9c3854dc1e841701469d4b420e825de713385a90df9f4ae7c1eecdb64455"
+hash = "29c7279244b6f5d17d26514aacf1c4e91c63b0cba6bba60d047422b16ce8b2c9"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
-hash = "ed67e224dab88f61eb52625b737bd983bc8ff849533837c774858a7909b85c91"
+hash = "6ac8ebd766bf636cb994cad97d88f0e7cb483353c75261cabb9599d325e22806"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "594a2e51cdcf0355c3e7a7ab029d877c98b8247f4990ff344f11c2d1110edd9e"
+hash = "7cf22d2aa1f6962cb8cfda172f9a9e480cbe5cd4e58d607d8c4d6cae88c086d2"
 metafile = true
 
 [[files]]
