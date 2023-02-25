@@ -1,0 +1,13 @@
+name = "Simple Survival"
+author = "MrEnton"
+version = "0.9.15"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3e61456c64960416b10ce7ee25766b57dfe5ed38ac1b69ac8ccf8bd1c1d783fb"
+
+[versions]
+fabric = "0.14.16"
+minecraft = "1.19.2"
