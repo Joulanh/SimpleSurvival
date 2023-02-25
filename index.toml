@@ -300,9 +300,8 @@ hash = "2915ac5fb69b8db57226e0aa7b8d6635847d77bcde0a79fc601948de26fa9373"
 metafile = true
 
 [[files]]
-file = "mods/golden-hopper.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-metafile = true
+file = "mods/goldenhoppers-1.3.3-1.jar"
+hash = "8cda1915d4310b6d6765a02a0c6465fef6c7eb9681ed67258f8c12451419fdad"
 
 [[files]]
 file = "mods/half-doors.pw.toml"
