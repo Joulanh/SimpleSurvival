@@ -190,6 +190,11 @@ hash = "afbedd7ed0e53042872115e1cdaeb00a7ce2dd7cd9569f3d589c4794c6c18ae7"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "538cab799842b6773d39b4a609c6c494f55fee0cd73376375a32d4d39157c24f"
+metafile = true
+
+[[files]]
 file = "mods/ctm-refabricated.pw.toml"
 hash = "d2a50dfcfe1f3b064289255ceccc1850c9920f18e5dfd27bba4b88d60bf4f367"
 metafile = true
@@ -336,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "ed2b52314152752376a966499cc9d9ff718be397315fce9461da3beb13f56b7c"
 metafile = true
 
 [[files]]
@@ -559,6 +569,11 @@ hash = "b1c66b8935441aa82483345180fe6ac215f891dfca5e144352a0fd9a50e74f35"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
 metafile = true
@@ -606,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "8ba352fb3b5b71326d89b59872a0e7e705a7c6931ff24aa1f94ba61994d9b08d"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "7b5dea35456bde440cb054c87e52107f6676f2dfe7139413c57e3bd57ceab8e4"
 metafile = true
 
 [[files]]
