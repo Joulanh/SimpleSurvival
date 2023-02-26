@@ -95,6 +95,11 @@ hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight-fabric.pw.toml"
+hash = "f25a30bcadf84bf0d39ede821c371d4a2987c98f64990a38601b58ae58f7328c"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "8e4ea7494b53303651489ac58de50729cdb9c1dc74f3d57af7dca6b7d9f93eb3"
 metafile = true
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
+hash = "dd5d292e40d52631f69178a39643d6d55c2184773f03acb2870b8865ffe7ad8a"
 metafile = true
 
 [[files]]
@@ -721,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "9a04610015be28c1a16f1b9141ededdf05081d9cf2f9502f02ddf5538bf72eac"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
 metafile = true
 
 [[files]]
