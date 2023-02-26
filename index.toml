@@ -245,6 +245,11 @@ hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "17a1745647d3eaf9cf88b4c44622f6dd73e7678a39a40d5f3a04e873b5e37b54"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "0cf50ca461e5fdb9af2ddc0a5d9661b6d578b0897dd6597a875255e4ed656450"
 metafile = true
