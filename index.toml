@@ -729,6 +729,11 @@ hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
 metafile = true
 
 [[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "c2b25d1c11e757a2d36fe1c78184163ddf5cac0b8bafb0f20db44046a35c142e"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "991956069fdb629e0c7cc59cc3a94915999d152f99c9f059282e6ad7f596fe22"
 metafile = true
