@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
