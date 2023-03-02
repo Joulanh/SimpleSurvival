@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "d2a50dfcfe1f3b064289255ceccc1850c9920f18e5dfd27bba4b88d60bf4f367"
+hash = "fb0bd76a18a321c4a0fb45b88451edb15afa2ba62408d3dc3154fb75c5971920"
 metafile = true
 
 [[files]]
