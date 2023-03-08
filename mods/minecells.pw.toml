@@ -1,13 +1,13 @@
 name = "Mine Cells - Dead Cells Mod"
-filename = "minecells-1.3.5.jar"
+filename = "minecells-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/StmhJsHu/minecells-1.3.5.jar"
+url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/fyMoxQQ4/minecells-1.4.0.jar"
 hash-format = "sha1"
-hash = "26b3023d039e6a76393949f3119fba0cc78ad886"
+hash = "bc76b62bbb7094fbb57dc03528e9d5678039b3cd"
 
 [update]
 [update.modrinth]
 mod-id = "9Qdvz1OV"
-version = "StmhJsHu"
+version = "fyMoxQQ4"
