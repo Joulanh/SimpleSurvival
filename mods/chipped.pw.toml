@@ -1,13 +1,13 @@
 name = "Chipped"
-filename = "chipped-fabric-1.19.2-2.1.1.jar"
+filename = "chipped-fabric-1.19.2-2.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BAscRYKm/versions/KzooZ5pQ/chipped-fabric-1.19.2-2.1.1.jar"
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/UK6ouO7Q/chipped-fabric-1.19.2-2.1.4.jar"
 hash-format = "sha1"
-hash = "a3dadd114b0e47055d5d61e2fab3097073ee9bc1"
+hash = "96cbb1f6fd6a1d72ea3e88239a5ce652b42ae887"
 
 [update]
 [update.modrinth]
 mod-id = "BAscRYKm"
-version = "KzooZ5pQ"
+version = "UK6ouO7Q"

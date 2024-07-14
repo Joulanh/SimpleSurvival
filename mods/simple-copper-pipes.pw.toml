@@ -1,13 +1,13 @@
 name = "Simple Copper Pipes"
-filename = "lunade-copper-pipe-1.12a.jar"
+filename = "lunade-copper-pipe-1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/VrYxGcg0/lunade-copper-pipe-1.12a.jar"
+url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/jv9W8HOA/lunade-copper-pipe-1.13.jar"
 hash-format = "sha1"
-hash = "bf17ab9f995b5ae2fda2ac43dc60b488c94e33d3"
+hash = "297810f7bf1812f3b55c8c3524ec65b41df89af7"
 
 [update]
 [update.modrinth]
 mod-id = "9r4ZkgSN"
-version = "VrYxGcg0"
+version = "jv9W8HOA"

@@ -1,13 +1,13 @@
 name = "Invisible Frames"
-filename = "invisframes-2.2.0.jar"
+filename = "invisframes-2.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b15f530a3298fdad400c4354031098b93d80e0c0"
+hash = "45bd96d126874898e3df83acb279374dc953fb39"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3950798
+file-id = 4454098
 project-id = 406787

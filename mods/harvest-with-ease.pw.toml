@@ -1,13 +1,13 @@
 name = "Harvest with ease"
-filename = "harvestwithease-1.19.2-4.0.0.3-fabric.jar"
+filename = "harvestwithease-1.19.2-6.0.1.2-final-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "db2a1a4c98640e32e0fd2e5488813d56326edb47"
+hash = "ddd1fb9ec02931244a5bd1137ddd34a3bc318e92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4132276
+file-id = 4487294
 project-id = 602171
