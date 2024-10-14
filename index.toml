@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "3bf92be4f8eaa39ec9523df62f089cdfd5ebeb75172dcadcf10292f24dc72f44"
+hash = "f3a63136321cac83cf3ec3568239e7e2b980af8f68f97a337728d71b55715d07"
 metafile = true
 
 [[files]]
