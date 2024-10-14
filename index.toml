@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
 
@@ -389,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9fd9753db77e09939fedbe0517673b7ac8ded8654896544fda5d0d09d9e9e49e"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
@@ -659,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "f3a63136321cac83cf3ec3568239e7e2b980af8f68f97a337728d71b55715d07"
+hash = "3bf92be4f8eaa39ec9523df62f089cdfd5ebeb75172dcadcf10292f24dc72f44"
 metafile = true
 
 [[files]]

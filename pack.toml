@@ -1,12 +1,12 @@
 name = "Simple Survival 1 . 20"
 author = "Joulan"
-version = "0.10.29"
+version = "0.10.30"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3cafc35404764c3d753271edd7a695b889c6f5b98b905b916df745fe641f1041"
+hash = "01abe7afcc6f8aeec2c03630b985efe02506959b56d2de69fe554dceb3c786cc"
 
 [versions]
 fabric = "0.16.5"

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/jyvo0fao/letsdo-bakery-fabric-2.0.2.jar"
 hash-format = "sha1"
-hash = "8ff1f562ac0c73e392c04bcce91437bb17822747"
+hash = "e48ea2a659e0f57a7d1b1cc055a1451bd354898f"
 
 [update]
 [update.modrinth]
