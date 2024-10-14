@@ -1,0 +1,13 @@
+name = "Uranus"
+filename = "Uranus-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Acxy864/versions/wxtnrYIP/Uranus-1.7.jar"
+hash-format = "sha1"
+hash = "153175f7ab83913ca98233723e11011cc670af66"
+
+[update]
+[update.modrinth]
+mod-id = "3Acxy864"
+version = "wxtnrYIP"

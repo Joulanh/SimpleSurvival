@@ -1,0 +1,13 @@
+name = "Storage Delight for Farmer's Delight"
+filename = "storagedelight-24.09.11-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/LlkAI45V/storagedelight-24.09.11-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "ab6ed9a95bd5324fb2c8326dbac76fe7250b7ffb"
+
+[update]
+[update.modrinth]
+mod-id = "LTTvOp5L"
+version = "LlkAI45V"

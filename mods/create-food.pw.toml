@@ -1,0 +1,13 @@
+name = "Create: Food"
+filename = "create-food-1.20.1-1.1.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4HnO3el1/versions/f0otsOhE/create-food-1.20.1-1.1.4-fabric.jar"
+hash-format = "sha1"
+hash = "b66bf4605044a21889b86ff7c8e9c4179c08290d"
+
+[update]
+[update.modrinth]
+mod-id = "4HnO3el1"
+version = "f0otsOhE"

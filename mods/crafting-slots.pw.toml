@@ -1,0 +1,13 @@
+name = "Crafting Slots"
+filename = "craftingcraft-fabric-1.20-16.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZlgV1Dc/versions/vp7C7uMl/craftingcraft-fabric-1.20-16.0.0.jar"
+hash-format = "sha1"
+hash = "dc22ea49f99793a114cf5c9359be9d41c3f1443f"
+
+[update]
+[update.modrinth]
+mod-id = "OZlgV1Dc"
+version = "vp7C7uMl"

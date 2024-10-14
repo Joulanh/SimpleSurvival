@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "overrides": {
+	  "interiors": {
+	    "-depends": {
+		  "create": "0.5.1-h-build.1516"
+	    },
+	    "+depends": {
+		  "create": "0.5.1-f-build.1417"
+	    }
+	  }
+  }
+}

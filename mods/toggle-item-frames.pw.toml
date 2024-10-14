@@ -1,0 +1,13 @@
+name = "Toggle Item Frames"
+filename = "toggleableitemframes-5.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sv9FlLct/versions/s5ww6N7E/toggleableitemframes-5.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "80bdcaa688b4737b2ad030363f688858f6f08cd5"
+
+[update]
+[update.modrinth]
+mod-id = "sv9FlLct"
+version = "s5ww6N7E"

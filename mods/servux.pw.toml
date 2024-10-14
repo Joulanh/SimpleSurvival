@@ -1,13 +1,13 @@
 name = "Servux"
-filename = "servux-fabric-1.19.0-0.1.0.jar"
-side = "server"
+filename = "servux-fabric-1.20.0-0.1.0.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "769c970e5d6365783df66bcb1fe3c2246da47f94"
+hash = "5a39a99f2faf2036894c5e05de50cb66ce5ef08b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3879398
+file-id = 4582473
 project-id = 406323

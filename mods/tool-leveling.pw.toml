@@ -1,0 +1,13 @@
+name = "Tool Leveling+"
+filename = "toolleveling-fabric-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I8oNjZdJ/versions/9B0nhkVi/toolleveling-fabric-1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "1e704dc4c55bbba7d8c709e4b7e03acee701fce5"
+
+[update]
+[update.modrinth]
+mod-id = "I8oNjZdJ"
+version = "9B0nhkVi"

@@ -1,0 +1,13 @@
+name = "Marium's Soulslike Weaponry"
+filename = "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oX6SohLj/versions/8NbsppBy/soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "06cb0e1c11a630c5b1d33b43f0dda017fb09f39c"
+
+[update]
+[update.modrinth]
+mod-id = "oX6SohLj"
+version = "8NbsppBy"

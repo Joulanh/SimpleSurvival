@@ -1,0 +1,13 @@
+name = "ATi Structures Mod"
+filename = "ati_structures(1.20)_v1.1.0_FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bii8qPSt/versions/lAWeUicN/ati_structures%281.20%29_v1.1.0_FABRIC.jar"
+hash-format = "sha1"
+hash = "67d940611f1bb112f788e8db41d9d2f66a2e0652"
+
+[update]
+[update.modrinth]
+mod-id = "bii8qPSt"
+version = "lAWeUicN"
