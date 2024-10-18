@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
+hash = "17771cccb8a36ea8aa1b4697042f5d967f911865398f271bfb00a7e072a56c94"
 metafile = true
 
 [[files]]
@@ -683,12 +683,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-and-charm.pw.toml"
-hash = "7bab6a899c31d18d775d66448066b262d9643cc7ebcbb66e2517bc63c63f25df"
+hash = "723f6256837d4dae4d826f70232e591a0e78c9b1ac49f3f44c97b3ecb155c2ae"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
-hash = "ab0c085150099e255e028c8f371d1f06ad4f445741c6a181a800301f727eb41f"
+hash = "4c698d762196f16c812d2e6d9e484938d805d7f9bd56829c5a3b6c14d36cb307"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/mealapi.pw.toml"
-hash = "adb920b48728998e86f1994a1b6fe3d9a522e0a586d22f3fc24f6d25faef874b"
+hash = "49c5f1471b413aecb50f24a71190b5e85f629846779c5335278541b34069b255"
 metafile = true
 
 [[files]]
