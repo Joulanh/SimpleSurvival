@@ -1,6 +1,6 @@
 name = "Meal API"
 filename = "mealapi-0.3.2+1.20.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZfVQ3Rjs/versions/3lsXZMiV/mealapi-0.3.2%2B1.20.jar"
