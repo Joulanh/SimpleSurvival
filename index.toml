@@ -217,11 +217,6 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c04484b7186077d8f951c8c0e8ae14dfdc1a32da994a1265f26ec748496853b9"
-metafile = true
-
-[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
 metafile = true
@@ -954,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/qds-magic-mirror.pw.toml"
 hash = "bde8b24c63dcb0b62f1c8429d582aafadea0b9e2bc70939f49ccf5f409758ccf"
-metafile = true
-
-[[files]]
-file = "mods/quickbench.pw.toml"
-hash = "7c5503b6195252b1b8286184e5683d5bc3d8905a58f10941180d0f805d9ee395"
 metafile = true
 
 [[files]]
