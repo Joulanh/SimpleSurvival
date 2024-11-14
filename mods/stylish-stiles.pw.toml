@@ -1,0 +1,13 @@
+name = "Stylish Stiles"
+filename = "stylishstiles-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KMnzveQJ/versions/zLlRqz68/stylishstiles-1.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "779c6b7000b0dbe02b6695e44cded5efb370efb8"
+
+[update]
+[update.modrinth]
+mod-id = "KMnzveQJ"
+version = "zLlRqz68"

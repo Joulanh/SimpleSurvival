@@ -1,0 +1,13 @@
+name = "[Moonsu] Better GUI Create Style for Better Smithing Table"
+filename = "[Moonsu] Better GUI Create Style for Better Smithing Table 2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YTU5v8bK/versions/38IijetS/%5BMoonsu%5D%20Better%20GUI%20Create%20Style%20for%20Better%20Smithing%20Table%202.0.zip"
+hash-format = "sha1"
+hash = "295d114f57774958cb33f41add6740b0d02e8bde"
+
+[update]
+[update.modrinth]
+mod-id = "YTU5v8bK"
+version = "38IijetS"

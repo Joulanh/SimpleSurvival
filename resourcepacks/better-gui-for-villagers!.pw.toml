@@ -1,0 +1,13 @@
+name = "[Moonsu] Better GUI for Villagers!"
+filename = "[Moonsu][Dark Backgorund] Better GUI for Villagers!.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0TLtRDs/versions/dgb97LhR/%5BMoonsu%5D%5BDark%20Backgorund%5D%20Better%20GUI%20for%20Villagers%21.zip"
+hash-format = "sha1"
+hash = "04d5c173c3e7e323aefc915e64c3a55580a791e6"
+
+[update]
+[update.modrinth]
+mod-id = "r0TLtRDs"
+version = "dgb97LhR"
