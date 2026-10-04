@@ -1,13 +1,13 @@
 name = "Just Hammers"
-filename = "justhammers-fabric-2.0.3+mc1.20.1.jar"
+filename = "just-hammers-fabric-26.2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/Hl1WvMl2/justhammers-fabric-2.0.3%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "95c7d667d0fb2d7935bf700163485a456f95d516"
+url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/EyvKNDJh/just-hammers-fabric-26.2.0.1.jar"
+hash-format = "sha512"
+hash = "bdf4007aa7454504d3ff8eaba76aadd7fcd0ca66cb5e307c77f5da512fab3ec56885271c0f8cb5373427d4d6863d00c3a00d8557b3d8cbc43bcb305ae3548d34"
 
 [update]
 [update.modrinth]
 mod-id = "edU0NbZZ"
-version = "Hl1WvMl2"
+version = "EyvKNDJh"

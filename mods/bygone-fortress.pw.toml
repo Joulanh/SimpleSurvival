@@ -1,0 +1,13 @@
+name = "Bygone Fortress Plus"
+filename = "bygonefortress-1.0.1+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i4EsNEju/versions/uERcs4Au/bygonefortress-1.0.1%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "46d55444a17a23a644ba753296bc5427d12529ef7474f6dce742f89cf17ce9bf0f5acf5ad00a10ca583ef5ba36462ad55d0af9ab1a94ca53b163f5d52a61a380"
+
+[update]
+[update.modrinth]
+mod-id = "i4EsNEju"
+version = "uERcs4Au"

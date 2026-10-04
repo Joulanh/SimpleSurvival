@@ -1,0 +1,13 @@
+name = "Bundle API"
+filename = "bundle-api-fabric-4.0.0+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n8QN6Z1a/versions/8aMCMFS1/bundle-api-fabric-4.0.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "21cba0463a97c65c9d54b4d120acb04cb283bf8a23561af469565c9a57796279b4ffe580277599d72497ce00e3e5b55e6948cc762992a3f1366a773438632c5a"
+
+[update]
+[update.modrinth]
+mod-id = "n8QN6Z1a"
+version = "8aMCMFS1"

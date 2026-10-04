@@ -1,0 +1,13 @@
+name = "Easy NPC: Config UI"
+filename = "easy_npc_config_ui-fabric-26.2-7.14.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/j1Dga91Q/easy_npc_config_ui-fabric-26.2-7.14.0.jar"
+hash-format = "sha512"
+hash = "e02df7755e8f8203c7b28691a0b99ce990132756c7590990e16dce2dd3dd3ff17c2cc65383479f53ac58c211c008aef1da1c0ab9b17ee27a8533595ea18fa178"
+
+[update]
+[update.modrinth]
+mod-id = "uTGjf7vA"
+version = "j1Dga91Q"

@@ -1,0 +1,13 @@
+name = "Reimagined Intro"
+filename = "reimagined-intro-2.1.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BsnF5g7E/versions/P7j7avMC/reimagined-intro-2.1.0-fabric.jar"
+hash-format = "sha512"
+hash = "c8f80fcfd8286d65c58fb54492d3c85a782681e5e588b680de561ba36a9d38b68602fedef3a77213b427776397efb7692e94ac9ffd570cb0c7d86a5c9fb01c9f"
+
+[update]
+[update.modrinth]
+mod-id = "BsnF5g7E"
+version = "P7j7avMC"

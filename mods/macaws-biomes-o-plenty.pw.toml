@@ -1,0 +1,13 @@
+name = "Macaw's Biomes O' Plenty"
+filename = "mcwbiomesoplenty-fabric-26.2-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/ioSjHqPG/mcwbiomesoplenty-fabric-26.2-1.6.jar"
+hash-format = "sha512"
+hash = "8781369d3fd7395bbd0fec33968cd0184cb0a693721a63711d4619063227c76d8af8206645db8fa15d087ec9c2256aa8460e8a7b620d6a73843a9ad0521cd0d8"
+
+[update]
+[update.modrinth]
+mod-id = "Tanquv9C"
+version = "ioSjHqPG"

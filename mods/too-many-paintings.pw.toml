@@ -1,13 +1,13 @@
 name = "Too Many Paintings!"
-filename = "toomanypaintings-1.0.2-1.20-1.20.4-fabric.jar"
+filename = "toomanypaintings-26.09.15-26.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/nEnAa9Fg/toomanypaintings-1.0.2-1.20-1.20.4-fabric.jar"
-hash-format = "sha1"
-hash = "63930f3826acde9fbe53022d4049f8b2766a70a2"
+url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/xZgjAGGe/toomanypaintings-26.09.15-26.1-fabric.jar"
+hash-format = "sha512"
+hash = "b213de445e813111e1d8bcc2c3c21ed5f34c54d71f75c63bb096cd5e1ece67519063e50a14935eafcc14cf950e6cf30681f70391aafe6728aab5b2bacd5b3e78"
 
 [update]
 [update.modrinth]
 mod-id = "T8Fpxcl7"
-version = "nEnAa9Fg"
+version = "xZgjAGGe"

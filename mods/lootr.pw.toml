@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-fabric-26.2-1.24.41.124.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/HegkPUoM/lootr-fabric-26.2-1.24.41.124.jar"
+hash-format = "sha512"
+hash = "fa6b025000f2d876faa97dc548a2132ae3e1b1a7362d4e45c9d0cc4fa3e6668df75b1c7c32695d442cb9cb7859036331bffe92fe4d60161dbf816f4340a8754b"
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "HegkPUoM"

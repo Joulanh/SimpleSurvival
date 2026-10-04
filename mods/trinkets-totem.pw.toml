@@ -1,0 +1,13 @@
+name = "Trinkets Totem"
+filename = "trinkets_totem-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LW5Wamev/versions/HyQuUzTf/trinkets_totem-1.0.0.jar"
+hash-format = "sha512"
+hash = "1d6a6acfcb9129a67aff5b53bea3796c4d2516b34334a36d6ffbfbc50de03673878ec051293c5dff01120d249de4f2bbd19dc5cd69d4c559efe26f1a8a67c47f"
+
+[update]
+[update.modrinth]
+mod-id = "LW5Wamev"
+version = "HyQuUzTf"

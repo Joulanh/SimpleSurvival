@@ -1,13 +1,13 @@
 name = "Snuffles (Fabric)"
-filename = "snuffles-1.0.0+1.20.jar"
+filename = "snuffles-1.8.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nUsNRn4i/versions/Pvfzd1R8/snuffles-1.0.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "80c212702f06d598d0b0299fde14b46567423614"
+url = "https://cdn.modrinth.com/data/nUsNRn4i/versions/SM8neR3c/snuffles-1.8.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "80c9dbd1fc169a5adc759487b8a0efaa60bc29aa06d7396090921f11183b24697705e2efa615ff4146c9436b6e9a2b6693c8fdfedf2f8f9831d41fd19ad67569"
 
 [update]
 [update.modrinth]
 mod-id = "nUsNRn4i"
-version = "Pvfzd1R8"
+version = "SM8neR3c"

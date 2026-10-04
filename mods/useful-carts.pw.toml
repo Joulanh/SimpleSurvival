@@ -1,0 +1,13 @@
+name = "Useful Carts"
+filename = "usefulcarts-26.2.0+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wzBy5iyV/versions/wkFZOEW4/usefulcarts-26.2.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "e4d4645371ba92da9d61404000ca7cd8ced12b788a684ecf871ffa3b1e009c06a0ca76481c8b74c8b177dd6b237af84fc05ab42a64e7dd92f0c84de9546e81f4"
+
+[update]
+[update.modrinth]
+mod-id = "wzBy5iyV"
+version = "wkFZOEW4"

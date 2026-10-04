@@ -1,13 +1,13 @@
-name = "Simple Survival 1 . 20"
-author = "Joulan"
-version = "1.0.1"
+name = "Simple Survival"
+author = "Hanjou"
+version = "26.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "31579c8343b4e3debcf3074567b0d1cbb290b07819000df23fc87c797da3bf0c"
+hash = "746afeb7b0dcddc5bf9727997dab7892e5184b806dd8a3390bedd74c9b080a09"
 
 [versions]
-fabric = "0.16.9"
-minecraft = "1.20.1"
+fabric = "0.19.5"
+minecraft = "26.2"

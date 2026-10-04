@@ -1,0 +1,13 @@
+name = "JEI / REI / EMI WorldGen"
+filename = "jeiworldgen-fabric-26.2-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YYrsrQ6q/versions/bO8tgBCi/jeiworldgen-fabric-26.2-1.4.5.jar"
+hash-format = "sha512"
+hash = "957985f892d6fa4e4dc73c69f1f5585cc8a8dc58270a0be5a4aec037f7141d24d36d9396bf511b67d908bb3c23b340642396b0b71cdd3dd117d51e9abb068954"
+
+[update]
+[update.modrinth]
+mod-id = "YYrsrQ6q"
+version = "bO8tgBCi"

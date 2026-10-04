@@ -1,13 +1,13 @@
 name = "Amplified Nether Height"
-filename = "amplified-nether-height-1.1.jar"
+filename = "amplifiednetherheight-1.4+26.2-mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8YzB9eVH/versions/5FTN0Pp4/amplified-nether-height-1.1.jar"
-hash-format = "sha1"
-hash = "86777a46f222bdb05df10e5f79c30eec19bb519e"
+url = "https://cdn.modrinth.com/data/8YzB9eVH/versions/3qAsBVFr/amplifiednetherheight-1.4%2B26.2-mod.jar"
+hash-format = "sha512"
+hash = "143327c936096a41c29e8dc442617b67bd237d131087d8816b35a2e919f0f5847125897be88f270a1aac43fb0c42b33f51e0e8416954960ed13eb5ceea813607"
 
 [update]
 [update.modrinth]
 mod-id = "8YzB9eVH"
-version = "5FTN0Pp4"
+version = "3qAsBVFr"

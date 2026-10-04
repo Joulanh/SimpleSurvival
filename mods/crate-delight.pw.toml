@@ -1,13 +1,13 @@
-name = "Crate Delight - Farmer's Delight"
-filename = "cratedelight-24.11.06-1.20-fabric.jar"
+name = "Crate Delight"
+filename = "cratedelight-26.07.01-26.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/JdvLQhsy/cratedelight-24.11.06-1.20-fabric.jar"
-hash-format = "sha1"
-hash = "a499425c8417764151a933bb59f09dbc908162d9"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/bh14ODmF/cratedelight-26.07.01-26.2-fabric.jar"
+hash-format = "sha512"
+hash = "3e76a2d23670b6cf5d60cc932382475f73858c43ccbc906376f023ab5cf8c412c1f103288c8154e40e42dc22f7f4c6aaffe43748dd55ad3f714e7dc2d68d03e1"
 
 [update]
 [update.modrinth]
 mod-id = "9rlXSyLg"
-version = "JdvLQhsy"
+version = "bh14ODmF"

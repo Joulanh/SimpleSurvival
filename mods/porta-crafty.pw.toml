@@ -1,0 +1,13 @@
+name = "Porta Crafty"
+filename = "craftingslots-fabric-26.2-26.2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZlgV1Dc/versions/eyZb8qfS/craftingslots-fabric-26.2-26.2.0.1.jar"
+hash-format = "sha512"
+hash = "850d58b59ebab1bb5c8ae643cbf90cc6d170e801dac8e31f03534e2fbc9542cb994065fb2416a5e858a092f21788e54a93aedcfe329380c81861c3704beebd12"
+
+[update]
+[update.modrinth]
+mod-id = "OZlgV1Dc"
+version = "eyZb8qfS"

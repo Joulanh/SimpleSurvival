@@ -1,0 +1,13 @@
+name = "JEI / REI Trades"
+filename = "jeitrades-fabric-26.2-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4SbUVStJ/versions/pYei51hX/jeitrades-fabric-26.2-1.2.2.jar"
+hash-format = "sha512"
+hash = "1db4ef7883575c67647e0c0e16fa1486f5a22d7b7ff48253fe50c3102213475c8ce49a1037d7c539189476c9abfe336cfa23fe2776ae31c31fded2ff966b24cd"
+
+[update]
+[update.modrinth]
+mod-id = "4SbUVStJ"
+version = "pYei51hX"

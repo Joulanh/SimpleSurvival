@@ -1,0 +1,13 @@
+name = "Delight Lib"
+filename = "delightlib-26.06.23-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmDY6fYt/versions/SjphfJS9/delightlib-26.06.23-26.2-fabric.jar"
+hash-format = "sha512"
+hash = "5cd018acdf3eb5a4a4a3caaba74bc93343437fc372fed8b5294f2cc0141dff3ad85bd4833faaa67a6ea008fad9563adab84ff8c25997b8d15f49286437a19d6c"
+
+[update]
+[update.modrinth]
+mod-id = "rmDY6fYt"
+version = "SjphfJS9"

@@ -1,13 +1,13 @@
 name = "Block Meter"
-filename = "blockmeter-1.11.2-1.20.1.jar"
+filename = "BlockMeter-21-26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/rXnhVxzq/blockmeter-1.11.2-1.20.1.jar"
-hash-format = "sha1"
-hash = "ce62a6fac16ca7d9d58758335746103e52f66046"
+url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/xpxSmDgO/BlockMeter-21-26.2.jar"
+hash-format = "sha512"
+hash = "ae376a2a4e4ea27df609fc3691fee4926f08f612ff939687fa120aa2f043debe1de615aeb2ad57b5a696a09361c4c020af0aa19483a28d951b3af0ff9f36bf25"
 
 [update]
 [update.modrinth]
 mod-id = "oGU9LXKC"
-version = "rXnhVxzq"
+version = "xpxSmDgO"

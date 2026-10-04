@@ -1,13 +1,13 @@
 name = "AttributeFix"
-filename = "AttributeFix-Fabric-1.20.1-21.0.4.jar"
+filename = "AttributeFix-fabric-MC26.2-26.2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar"
-hash-format = "sha1"
-hash = "9688bf005eb31d7cc9576f535acf819376d47068"
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/DwUCU2Y7/AttributeFix-fabric-MC26.2-26.2.0.1.jar"
+hash-format = "sha512"
+hash = "83d20830b0f439231f8d15cbf509fb99f63e92a96a7b3695d135564821fa4e6adacc929954545b6ef9842a10fe6d0ca195b61104bd6f632c3d8b4234aa707135"
 
 [update]
 [update.modrinth]
 mod-id = "lOOpEntO"
-version = "B5XgR60E"
+version = "DwUCU2Y7"

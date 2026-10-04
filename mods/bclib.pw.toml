@@ -1,13 +1,13 @@
 name = "BCLib"
-filename = "bclib-3.0.14.jar"
+filename = "bclib-26.201.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BgNRHReB/versions/TPC86Pyz/bclib-3.0.14.jar"
-hash-format = "sha1"
-hash = "34be724165bfe1207542f26551b10925d099eee1"
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/7BfGRji6/bclib-26.201.2.jar"
+hash-format = "sha512"
+hash = "e222fd5b0339d19292e99df9c48c5536062c538e414cd8948f4adba33ef8b412c259774b1371d9bda2e2231bd5f1832c1cbb3fb4da8d93124e9d322801ddd10d"
 
 [update]
 [update.modrinth]
 mod-id = "BgNRHReB"
-version = "TPC86Pyz"
+version = "7BfGRji6"

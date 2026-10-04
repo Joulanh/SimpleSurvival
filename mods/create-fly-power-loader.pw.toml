@@ -1,0 +1,13 @@
+name = "Create Fly: Power Loader"
+filename = "create-fly-power-loader-fabric-26.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X5ptFq5h/versions/SE8ZdQlI/create-fly-power-loader-fabric-26.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "bf215dedb23dd3c9a322db6ea3053a7dae2e05ad3b5733673b7c9c6bee7c0147a060c40175fd09045afa6e192547738c1c843195103e70c741ce80980fcf772d"
+
+[update]
+[update.modrinth]
+mod-id = "X5ptFq5h"
+version = "SE8ZdQlI"

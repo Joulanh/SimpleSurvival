@@ -1,0 +1,13 @@
+name = "Brewin' And Chewin' Fly"
+filename = "BrewinAndChewin-Fly-4.5.4-fly+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WMnDGXW8/versions/4Kgm4nF1/BrewinAndChewin-Fly-4.5.4-fly%2B26.2.jar"
+hash-format = "sha512"
+hash = "eb9d60751ebdde5392c2541b990c96940cd4e25d6e7f140a8f017cb16dea66f594b670d2fea762063b5f3dc53b4ed5b84a0af26a5d87b9b82adbdbe157903a9c"
+
+[update]
+[update.modrinth]
+mod-id = "WMnDGXW8"
+version = "4Kgm4nF1"

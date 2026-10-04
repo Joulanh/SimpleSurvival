@@ -1,0 +1,13 @@
+name = "Create Fly: Steam 'n' Rails Continued"
+filename = "SNR.FLY-STABLE-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f20AygJv/versions/RChCDW0S/SNR.FLY-STABLE-1.2.2.jar"
+hash-format = "sha512"
+hash = "a5f4c5f9a1984ad3d9db2acbba10660d24d5c459c928e35e395f773aa2957f296503e177043be65280d348c8da1398ac5caa62ade16081c258bffe636ba464f8"
+
+[update]
+[update.modrinth]
+mod-id = "f20AygJv"
+version = "RChCDW0S"

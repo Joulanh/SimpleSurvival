@@ -1,0 +1,13 @@
+name = "Macaw's Betters"
+filename = "mcwbetters-fabric-26.2-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YwnqoRu0/versions/LqWU8qyB/mcwbetters-fabric-26.2-1.6.jar"
+hash-format = "sha512"
+hash = "0edf5026bf099c785b4cc15c6035ff516e04044ccb708531a12e28f198bdb6946e836025029f0b6be34ea51a3c39225311f5178db0806fd323ec77524065adeb"
+
+[update]
+[update.modrinth]
+mod-id = "YwnqoRu0"
+version = "LqWU8qyB"

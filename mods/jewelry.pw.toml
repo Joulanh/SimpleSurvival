@@ -1,13 +1,13 @@
 name = "Jewelry (RPG Series)"
-filename = "Jewelry-1.3.7+1.20.1.jar"
+filename = "jewelry-fabric-2.5.1+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/O9B6r9VO/Jewelry-1.3.7%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "4943324eb735305ae42e619a78d11e5136e1d321"
+url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/7Uhj05Kr/jewelry-fabric-2.5.1%2B26.2.jar"
+hash-format = "sha512"
+hash = "e57acc4255327b7a3be689ffd842a86275c34abf0c30ceae59184440913b4c8b16a40da7ad4bf69693a51b32f105cc776be29b8882419b8f1c27bd61f228ee0a"
 
 [update]
 [update.modrinth]
 mod-id = "sNJAIjUm"
-version = "O9B6r9VO"
+version = "7Uhj05Kr"

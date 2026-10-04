@@ -1,0 +1,13 @@
+name = "EMF Compat: Create"
+filename = "emf_compat_create_26.2_2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/GkQIr6gC/emf_compat_create_26.2_2.0.0.jar"
+hash-format = "sha512"
+hash = "602090f20991e2fa2f52e038ea215df1ee8ce83b55db0e9463c7e4152074068427e309118bd3ec0c130f4c27ecba7a0fbc9be5dc68ef92781888149593d54833"
+
+[update]
+[update.modrinth]
+mod-id = "J9McOdzy"
+version = "GkQIr6gC"

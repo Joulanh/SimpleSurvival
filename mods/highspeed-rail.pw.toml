@@ -1,13 +1,13 @@
 name = "High-Speed Rail"
-filename = "highspeed-rail-0.4.0+1.20.1.jar"
+filename = "highspeed-rail-fabric-0.24.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/sZpVjhCs/highspeed-rail-0.4.0%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "69f6ff497379f64912ed35a2445af701f314e53b"
+url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/UnL9JxtC/highspeed-rail-fabric-0.24.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "8281ff4863ec3e741f1b25335f26ba383874e50868e2e5e02cff3afdfdc670156d0be2f25b32202a3b4a5b6749af55b87b359806f1d208713f71cee08deed915"
 
 [update]
 [update.modrinth]
 mod-id = "d7PCSOkD"
-version = "sZpVjhCs"
+version = "UnL9JxtC"

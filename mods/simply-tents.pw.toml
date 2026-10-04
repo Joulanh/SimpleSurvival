@@ -1,0 +1,13 @@
+name = "Simply Tents"
+filename = "simplytents-3.5-26.2.fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yWY7WWmg/versions/M489Wl6g/simplytents-3.5-26.2.fabric.jar"
+hash-format = "sha512"
+hash = "a01f8ed06128952eccb8ed770b0dba7039d5fbabde3b6831d3681bf60275e09119f87cc2961c4bf1f238da947f1a0c259788d42dbb5d3e4ed4451f5f0c5af129"
+
+[update]
+[update.modrinth]
+mod-id = "yWY7WWmg"
+version = "M489Wl6g"
