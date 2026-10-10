@@ -13,8 +13,18 @@ file = "add-mods.sh"
 hash = "1fdf6150b00ece6b82a0981f3dfd359d4796d2487dd35363fe1d58ea9c22685a"
 
 [[files]]
+file = "datapacks/mes-biomes-o-plenty-compat-pack.pw.toml"
+hash = "0c637760279cfc5a5aba99ef59505051e490c01dddda0fe15585ccdc17759c45"
+metafile = true
+
+[[files]]
 file = "fehler.log"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/abridged.pw.toml"
+hash = "82c1beaae85ca64bb66fa099e20a3bed31f26f7ad9565d1cd2131e29d8e57aa4"
+metafile = true
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -327,6 +337,11 @@ hash = "7eb393873758aef07d7123e526ab8986b656a58d0b8d01b7ac3c4825a1a02041"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "6f522e2469b617a66d68c37a623def1be4e1ad1900397576d12cf112d939603a"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "f7a5ebed24d02e4a279b87adb63cf05afe260de1d88dae07e2e7cdb17b17998e"
 metafile = true
@@ -387,6 +402,11 @@ hash = "44a7220975e5e6fb46fb2adec34038a2b2c060667a04809df553010c88827406"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "7e3224d04dac3c2ad62d0f5d69301fca61c8e9de78a7ac37ee486e2783166da6"
+metafile = true
+
+[[files]]
 file = "mods/critical-strike.pw.toml"
 hash = "5863a6b2a5659448fe64ebc63803353c9dd78f9b044c042b7649e1daa280f66f"
 metafile = true
@@ -394,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "6c2cd82faaf1222ca34ce00607bece4f97b68e01ca376f514f8c9eb4e9d7b6aa"
+metafile = true
+
+[[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "5aa1fec398561f8c07f984c889547227a6b8c782df8afa328f6c80262ffb075a"
 metafile = true
 
 [[files]]
@@ -482,6 +507,11 @@ hash = "af11e6359457a1210e9b3f16d5f5182f9abee018be5fe751fc725344a4c06b81"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "fac005208bfe5f3c43d3b108733c4a411d881d4e4fd29b5329910ad6798b3eb5"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "e65bf5ed92166b9d048f75529416662378ce70349f3e41875084c5346bb7cd95"
 metafile = true
@@ -499,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92b82f8b031658ef32ab0d42fd6a8b726f797f193161621fd5ef04fd91e59c2b"
 metafile = true
 
 [[files]]
@@ -587,6 +622,11 @@ hash = "8700c1d4c26519db57563e9db8fb26f85ac0030542016f5540949d5a33f4a343"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "596eff3f1979e8a7cc4d548cc8b76eb30c25be20e40698f0e67866ba61efff31"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "82d2045052db78da9364c0e925eea5ca769f0185b6e56a97313a9f319b78ffb0"
 metafile = true
@@ -614,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "d2eb4cba50d0113a2388eda5a58f74dd469388de561b4b8517d5c3cb0c1b1d24"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "375e63ade71573e8feca4c9fdddc2a8f98340b46f27e74780aa0a71544050075"
 metafile = true
 
 [[files]]
@@ -674,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "b2c63697f6c9bc2c8716ad9a73561b98e6f45f1d6c61ffea5935c111cb44bcc0"
+metafile = true
+
+[[files]]
+file = "mods/katters-structures.pw.toml"
+hash = "7042974a31515259731c7ff23e13bec427e87e1214d323212574d1317c0d7a88"
 metafile = true
 
 [[files]]
@@ -772,6 +822,11 @@ hash = "2693ec9e793b723ea1dae1912831652dbe5e5caeb3e4adb13496b98d38de1fa3"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "66e27964c598c333a9082695989d293e554c42a8a295c6cfdc56685bb01d0f4e"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
 metafile = true
@@ -784,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "dc9906e45919f5b3a31e3d5582cd97bdd7534f56c2a5e730b9de41875a97e1eb"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "cc3edec9f858c1a096a56b0bc71495281441dbe39016bb01b940247cebe75a7f"
 metafile = true
 
 [[files]]
@@ -1022,6 +1082,11 @@ hash = "2204ff28b868e9bb67b39613da0559f14ea8f7f68d0def88f830d0723d2b9761"
 metafile = true
 
 [[files]]
+file = "mods/slabbed.pw.toml"
+hash = "a089d9fde84633f3aa2442795a8cae8fd2e703e36c8529607da87128a39ef0e0"
+metafile = true
+
+[[files]]
 file = "mods/snuffles-fabric.pw.toml"
 hash = "203dce423a114226ecdbe368acfb4fd5621aed45c4f9275c0db3884c3882f121"
 metafile = true
@@ -1044,6 +1109,11 @@ metafile = true
 [[files]]
 file = "mods/sound-controller.pw.toml"
 hash = "4626c96f07cdbe25363ed80f93cd21ba808f2704f304ae33365c5a3d6f7b5dbc"
+metafile = true
+
+[[files]]
+file = "mods/speed-paths.pw.toml"
+hash = "f07efbdf6df574dbf67dbc4e9fb7ad744ac8b0212f0468c575f1a9e86634fbe2"
 metafile = true
 
 [[files]]
@@ -1072,8 +1142,8 @@ hash = "f23688399c3f532c3246c63b0e715f8f53dce0b60f7e0e1ed70d2c6989d00d12"
 metafile = true
 
 [[files]]
-file = "mods/structurify.pw.toml"
-hash = "5960eddbcc20a0c52401b76cd7565c20563301199597fa13408f9f3879aa4eb3"
+file = "mods/subtle-effects.pw.toml"
+hash = "c7845f3dec4c638e24f1985cf025db722553b6bc066a33840b7df4bb6b3c6f1b"
 metafile = true
 
 [[files]]
@@ -1119,6 +1189,11 @@ metafile = true
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
 hash = "ba32479f2f81d5c28baea12f11456e607f7573f2d5caea6e504af27b7a94ab6f"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
 metafile = true
 
 [[files]]

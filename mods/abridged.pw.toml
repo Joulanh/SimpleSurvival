@@ -1,0 +1,13 @@
+name = "Abridged"
+filename = "abridged-2.0.2-fabric-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/IFO3J0SK/abridged-2.0.2-fabric-26.2.jar"
+hash-format = "sha512"
+hash = "4ea9819f6d6bb97897b5fd8e2e22d29ba65066533d0767b61509a9477fcdf7a35e93301305cb9177fa282369c1250b7eaa154436a2aaa3796c8bb921f96297a2"
+
+[update]
+[update.modrinth]
+mod-id = "tb5O1ssC"
+version = "IFO3J0SK"

@@ -1,6 +1,6 @@
 name = "Solas Shader"
 filename = "Solas Shader V3.7b.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip"

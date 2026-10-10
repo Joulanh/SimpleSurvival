@@ -1,0 +1,13 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-26.2-2.5.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/z6auypou/ExplorersCompass-26.2-2.5.1-fabric.jar"
+hash-format = "sha512"
+hash = "f8f4c9a55ba2678e908352c17368272b26bbf159c78dd94bf799feb4d51f9c3cb8c201cd69ff8bf079f509acdb9ab9e19e9aaa4275e4ce4d881084ed8e6ebd77"
+
+[update]
+[update.modrinth]
+mod-id = "RV1qfVQ8"
+version = "z6auypou"

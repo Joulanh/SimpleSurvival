@@ -1,0 +1,13 @@
+name = "MES - Biomes O' Plenty Compat Pack"
+filename = "MoogsEndStructuresIntegrated-datapack-1.20-4.7.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/atHHwlmX/versions/uxXMcXR7/MoogsEndStructuresIntegrated-datapack-1.20-4.7.0.zip"
+hash-format = "sha512"
+hash = "82aef25f405868482ec13ede9c1663804123f94ea4b853339184ea2cefe52bc33c35f03dc63bab66fbec9bce227d6fb424254515c5b87a451813bc2c53321391"
+
+[update]
+[update.modrinth]
+mod-id = "atHHwlmX"
+version = "uxXMcXR7"

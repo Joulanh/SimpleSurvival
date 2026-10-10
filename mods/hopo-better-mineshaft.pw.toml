@@ -1,0 +1,13 @@
+name = "Hopo Better Mineshaft"
+filename = "HopoBetterMineshaft-[26.2]-1.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9IxCUYAP/versions/N5xm7QNb/HopoBetterMineshaft-%5B26.2%5D-1.3.7.jar"
+hash-format = "sha512"
+hash = "90bd66e485902a4fddf13d925fa2c6ddcf698e9d947bd31ed7c394d291accccceb7928d6b885bec8af26b5a4cc520033ebc78291fc7291f65dc7bbe79f4dc2d7"
+
+[update]
+[update.modrinth]
+mod-id = "9IxCUYAP"
+version = "N5xm7QNb"

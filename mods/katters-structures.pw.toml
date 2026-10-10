@@ -1,0 +1,13 @@
+name = "Katters Structures"
+filename = "Katters Structures v2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V6LLU8Gf/versions/yyyqupBe/Katters%20Structures%20v2.5.jar"
+hash-format = "sha512"
+hash = "daa0da0a2febd9a269f419d9fb2092609584b2f7cb4811dfbecc28e7afd8a32bb98ab7c5252d53c273db5e2bd467484d74a972d322580a4a2c2505325419760a"
+
+[update]
+[update.modrinth]
+mod-id = "V6LLU8Gf"
+version = "yyyqupBe"
