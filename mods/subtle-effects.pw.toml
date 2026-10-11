@@ -1,6 +1,6 @@
 name = "Subtle Effects"
 filename = "SubtleEffects-fabric-26.2-1.15.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/mzuVHTvw/SubtleEffects-fabric-26.2-1.15.0.jar"
