@@ -17,12 +17,24 @@ file = "config/modernfix-mixins.properties"
 hash = "1a101d0d45817e1d9553dae04eecfb6547c6fa728d39c32a7991ae491e52db5e"
 
 [[files]]
-file = "config/terrablender.toml"
-hash = "c47a5d816443265ecf2257364b0a8509c91489a23f06368bce4c76a0022043fa"
+file = "config/resourcepackoverrides.json"
+hash = "990544ddf88b770c145ad37367bccb03f7c48577b89c9ea4ff5018d49af1a714"
+
+[[files]]
+file = "config/streamsreflowing.properties"
+hash = "2a9a2ab3c6bf13189cf62dce02589511758d273614b34eb1c6f1fd49a7be54bb"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "bb4569fc46302a2f4a452b35a594dbead32f77832abe5013fdd729f6b9019102"
 
 [[files]]
 file = "config/treeharvester.json5"
 hash = "411a0da46ce637cb252af7165d257bbaff9494da38066c7c7dc7d7fa81d446c0"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f4e18df869b8fb530571998ff2a73f79174b250bfa5573da67dd6aa73d26810"
 
 [[files]]
 file = "datapacks/mes-biomes-o-plenty-compat-pack.pw.toml"

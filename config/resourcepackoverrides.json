@@ -1,0 +1,13 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "itemswapper:default",
+    "continuity:default",
+    "file/FreshAnimations_v1.10.5.zip",
+    "file/FA+All_Extensions-v1.9.2.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}
