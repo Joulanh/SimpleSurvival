@@ -267,11 +267,6 @@ hash = "1225bd3892be6154ba4289581da56d4f3fee2ff82901400d09ba976746a3f589"
 metafile = true
 
 [[files]]
-file = "mods/bygone-fortress.pw.toml"
-hash = "03fde8f51a6384aabd02a68b4f3a577699363c9e811ae34d224c824b53fd82f3"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1fda69d944781149ffec5c7263cecfb5b56a17b83c35229e46706c33fdc6819c"
 metafile = true
@@ -527,6 +522,11 @@ hash = "6c53a0c2d9913c3b713c8ca6750cb7ead97ef276b425a9c6c466f810c4506a5e"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "a66d7a1c83c606aa7999e341f116ef6cb6a4ff61cbf2f6eb4f2fbabb98bb03a5"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "fac005208bfe5f3c43d3b108733c4a411d881d4e4fd29b5329910ad6798b3eb5"
 metafile = true
@@ -544,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "48838a30508e057894b24bdbbab78b435a6b27f504b7ef9c0f5d178d1e29d403"
+metafile = true
+
+[[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "49f436bb5c83452f6eb49f7a29f3b1dcfaa06606bbad75ba85c1a0081fb661ef"
 metafile = true
 
 [[files]]
@@ -1124,6 +1129,11 @@ metafile = true
 [[files]]
 file = "mods/sound-controller.pw.toml"
 hash = "4626c96f07cdbe25363ed80f93cd21ba808f2704f304ae33365c5a3d6f7b5dbc"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
 metafile = true
 
 [[files]]
