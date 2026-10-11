@@ -277,6 +277,10 @@ hash = "065eed4e2fd2e5eaf17dad94de72dacc6e339cda19f0d0f65f690476edc3edca"
 metafile = true
 
 [[files]]
+file = "mods/carpet-payload-fix-1.0.0+26.2.jar"
+hash = "1b323369458b57e0de18aa8e615714e6188d34bb606a07e90a4442891e42301a"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
 metafile = true
