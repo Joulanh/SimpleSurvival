@@ -4,9 +4,9 @@ side = "client"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/fmjx2lut/nuit-fabric-1.0.0-beta.6%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/vP9V2df8/nuit-fabric-1.0.0-beta.5%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "6d5be0c965d4bc0646667f2edd44832937850616ea862778d5ae70b1ec9deea868329650f97d0e36e93f8942255352f8fe87a3d0c76f3ca4dbdcfac2053b9fa3"
+hash = "1d0994fe64c54869c2cde898ad3b738b9773536b66a090a2a63a90b108d7f9d6c91f87378fa1a1550aae9c9d246858de0e6376a257fd59bfd178118c1f134628"
 
 [update]
 [update.modrinth]
