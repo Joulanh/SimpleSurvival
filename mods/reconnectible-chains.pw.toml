@@ -1,0 +1,13 @@
+name = "Reconnectible Chains"
+filename = "connectiblechains-2.4.4+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/8dnlNk9O/connectiblechains-2.4.4%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "dda417b55085b602bb6561534170b4fd1aef49db4d57fdc505295c127754ae11b2f4481df73f90cac18e3681e30dcd51c4022a5eb697b4229965ce7e09889a58"
+
+[update]
+[update.modrinth]
+mod-id = "5pzBXDS3"
+version = "8dnlNk9O"
