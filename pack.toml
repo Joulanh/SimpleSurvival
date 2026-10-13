@@ -1,12 +1,12 @@
 name = "Simple Survival"
 author = "Hanjou"
-version = "26.2.2"
+version = "26.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6eded03e439367118535e0d3afaffc0282f794abb2cf93e05f97332b2fe32691"
+hash = "dca8f7c09eb6f5f2d98739b3b0a89f575e4c434e63d1dc9c1deb82e5aed15d9c"
 
 [versions]
 fabric = "0.19.5"

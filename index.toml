@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "ec72f8fbe09a9371e16b8aff5cbab4164f4eb0cfebb474ec39974631f9e1a2af"
+hash = "6e8c0bc7ad1f7bdd06d6c4e1a413bce7b44489780934f900b68f188afd7e15f8"
 metafile = true
 
 [[files]]
