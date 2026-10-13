@@ -1,0 +1,13 @@
+name = "rainbow's foliage: vanilla"
+filename = "rainbows-foliage-vanilla-edition-v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1YPmp9wm/versions/lUJDtc3P/rainbows-foliage-vanilla-edition-v2.1.zip"
+hash-format = "sha512"
+hash = "42591a6b543773130cc7104e49bac28889aba97429e14d3c3552c0b0f82f2270ba7176933a9bfa8be399e6d71b2422c68a12aaf6df8166ca06a8856a6be9fa14"
+
+[update]
+[update.modrinth]
+mod-id = "1YPmp9wm"
+version = "lUJDtc3P"

@@ -1,0 +1,13 @@
+name = "First Join Message"
+filename = "firstjoinmessage-26.2.0-3.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ppny3rjF/versions/uRKCVmAL/firstjoinmessage-26.2.0-3.9.jar"
+hash-format = "sha512"
+hash = "8aa44d52652d5b18c63c05239fcfdcba720dbce9c89e7ed9f146c61c119d49e6a8f5d33d044e95e87d336993c2c6630af6aa6ccbb89db2af8f6ecf1b189bbf69"
+
+[update]
+[update.modrinth]
+mod-id = "Ppny3rjF"
+version = "uRKCVmAL"

@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "b4b572f5d8a5890bbbf8fa843b03ca6c410a4b623498d4ab3c77eafdf28867de"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "3ba531e055b766f08f01c83ebc541c0123d6a6e0e7a1ad69f0588895c2a1e5e3"
+
+[[files]]
+file = "config/firstjoinmessage.json5"
+hash = "f84b518228cd0f3bf15ea6b179aaeab867172e46ef9f59c6e46570086c6ebf67"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -18,7 +14,7 @@ hash = "1a101d0d45817e1d9553dae04eecfb6547c6fa728d39c32a7991ae491e52db5e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "90a217cbfa2aa59286a1be1ff5971e4a42e7e3b99c878ab13faf67ddad822665"
+hash = "ead4aac77bde7f4a4cfcb440dfd619f9ac0a2df2ad356a3572f5d9f36888ca30"
 
 [[files]]
 file = "config/streamsreflowing.properties"
@@ -35,6 +31,10 @@ hash = "411a0da46ce637cb252af7165d257bbaff9494da38066c7c7dc7d7fa81d446c0"
 [[files]]
 file = "config/wover/client.json"
 hash = "f9ee6d8d7981146c6f577bef2d284e19e025ed0fb717ddcfd702ab52ff33c431"
+
+[[files]]
+file = "config/yosbr/config/do_a_barrel_roll-client.json"
+hash = "22d6678a60c101e625f1eeea6179f08e9063bf4b0523372482956d0c283c5964"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1fda69d944781149ffec5c7263cecfb5b56a17b83c35229e46706c33fdc6819c"
+hash = "0810044a0627c13fa674ba03e0bdfe7a60d65e71e47c8b4d15937565c010c88c"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9a01e54bfad6751ed829327bd0aea88fbb9a26aa3470d97df168051a87a5c28e"
+hash = "29d0039ec486a1ead87788bcb6f21a9e61cbeae7effeb9536d9600e55c8ef166"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "44a7220975e5e6fb46fb2adec34038a2b2c060667a04809df553010c88827406"
+hash = "ec72f8fbe09a9371e16b8aff5cbab4164f4eb0cfebb474ec39974631f9e1a2af"
 metafile = true
 
 [[files]]
@@ -507,17 +507,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "8a066c433c958f799264a18050c8e362afef216886e59f956a4e322f43fc9347"
+hash = "46f52188cf74167cdf734a0c90cd68f7f03cd6d32371947ed6ca32abf0a89b27"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "0b2ca64b729509f5176daaff2127f02f4c9ff01be32bf2cd9bba5095aedd671e"
+hash = "18162e806123b0cf6a6ed88810cbc2aaabf28697ce4b0791a26199bed85510b0"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "75716683d48b8ce93572138b03562047a8f3073046d38eba45a325bd5feda7c2"
+hash = "005a3a72b8866f44aca3d342615f33c9bc7a78c3c87d17a8d08f2bc1b640613a"
 metafile = true
 
 [[files]]
@@ -626,6 +626,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/first-join-message.pw.toml"
+hash = "27c93d0a2f717d6d8f81a6aae442c0b2e3e6ae2c9fc9d60a6a7a69c8d3f0b607"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "6b5348694f6edfdf555c82e4bae5e979b465e48b6a3d5148fc3f15090147ec4b"
+hash = "d70ee8a29bab7131408d4b38dec8150e15a39a4c951d8d5eb9c85e4017c8b7ec"
 metafile = true
 
 [[files]]
@@ -992,12 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "7d6355c791cd44d7b012c142b7adb1a8b644794a95bbe0c34d00009dd68baffb"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "a0cb2c9718871697eac9ba9380348e2b584a93cc51e9e6a21a79d905110934ee"
+hash = "b1573be96c2c7fe3b0ede2d3e7f5ee7f62d88509734e84c43b79a586d1fee55d"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5587d752a3b30750512779e21e0a5eb400d0657593d9ba8c392e157ec74c251c"
+hash = "5a6a88f483ef14f868deb42385a01289e3d066f3497ad1770d547fe25e8a522e"
 metafile = true
 
 [[files]]
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/speed-paths.pw.toml"
-hash = "f07efbdf6df574dbf67dbc4e9fb7ad744ac8b0212f0468c575f1a9e86634fbe2"
+hash = "5848fd0971c7e0f06d4f103d5c5d5a5a4fef459ba6f076aaae90284722394ff0"
 metafile = true
 
 [[files]]
@@ -1197,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "c78ec92d2c3cc314d11cef42e97cc6a1dbf5dbb9aa3f2717cce7f8ee4f2638a3"
+hash = "d2315e02961a9c4be57c989c2700c9545f79cef37a1f14a9535c919411b1afb7"
 metafile = true
 
 [[files]]
@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "212fcbbddc7e345d78c0be528b5157a5fee0984bfecf78eef39ae26756076fe9"
+hash = "2211aeecac943b214e81381c44e978e1e5803eed3392566715aeb134e9b5bc30"
 metafile = true
 
 [[files]]
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "5fa4b027e339bf845582a079107a02b192d3c55c338b7c3a5b2d1f6da337cf7a"
+hash = "7dd2ec7df79839b9bb6962a6c592c8aaa4db28e6499885d8a3362acaf3a9ff06"
 metafile = true
 
 [[files]]
@@ -1391,8 +1391,8 @@ hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]
-file = "resourcepacks/rainbows-foliage.pw.toml"
-hash = "a36f4e0d98665ad15318ab737c97c74ae9d7561f03eda7075731500ee00e361c"
+file = "resourcepacks/rainbows-foliage-vanilla-edition.pw.toml"
+hash = "d1aca3ad7c31c5d73fe771552633a3ab4b34076daab78fd588816a8b9b60e34a"
 metafile = true
 
 [[files]]
