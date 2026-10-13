@@ -10,7 +10,7 @@ hash = "b4b572f5d8a5890bbbf8fa843b03ca6c410a4b623498d4ab3c77eafdf28867de"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b8f598039216ed822656671a724bcdccd26ac18e3962efeef068123d514e4b92"
+hash = "3ba531e055b766f08f01c83ebc541c0123d6a6e0e7a1ad69f0588895c2a1e5e3"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -33,8 +33,28 @@ file = "config/treeharvester.json5"
 hash = "411a0da46ce637cb252af7165d257bbaff9494da38066c7c7dc7d7fa81d446c0"
 
 [[files]]
+file = "config/wover/client.json"
+hash = "f9ee6d8d7981146c6f577bef2d284e19e025ed0fb717ddcfd702ab52ff33c431"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "3f4e18df869b8fb530571998ff2a73f79174b250bfa5573da67dd6aa73d26810"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "76043fe921c82c0060e74aa9113712ab2e6749cb80b8b0bb7c9bbd53613ee5e2"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "69dc171ebfed199f6d8fb23d405bf804d2d226af6867e3b0876a9f1b51dffe3d"
+
+[[files]]
+file = "datapacks/harder-explorers-compass/data/explorerscompass/recipe/explorers_compass.json"
+hash = "dde7659c7e831fbbd6386b917d0486bffc70001b654b588b260f7daa1b239ea0"
+
+[[files]]
+file = "datapacks/harder-explorers-compass/pack.mcmeta"
+hash = "e343ff0eb258a386f39274374e8f23c50c1c53511460dc9ff797e442a80a0c0a"
 
 [[files]]
 file = "datapacks/mes-biomes-o-plenty-compat-pack.pw.toml"
@@ -846,6 +866,11 @@ hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
+file = "mods/mc2-interactive-foliage.pw.toml"
+hash = "99c8922f3162045f49bb3f2af9075cf24db5b5cde1b11174e9a25e2d8044d45d"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "2693ec9e793b723ea1dae1912831652dbe5e5caeb3e4adb13496b98d38de1fa3"
 metafile = true
@@ -968,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
 hash = "7d6355c791cd44d7b012c142b7adb1a8b644794a95bbe0c34d00009dd68baffb"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a0cb2c9718871697eac9ba9380348e2b584a93cc51e9e6a21a79d905110934ee"
 metafile = true
 
 [[files]]
@@ -1196,6 +1226,11 @@ hash = "41e8b0ce6ac069f6894ef9a9b6e94a8754448755da055be0663cfc89c5a7a811"
 metafile = true
 
 [[files]]
+file = "mods/sway.pw.toml"
+hash = "da952a1ded86306f7574c0f2aced353c87ef7bfd63622c1e418eeba86e6492a3"
+metafile = true
+
+[[files]]
 file = "mods/symbol-chat.pw.toml"
 hash = "1e7ec90af5574177ca8582b920d4e00ab8c5fea70fdf2ba4bdd2fe7ba8b30d28"
 metafile = true
@@ -1336,6 +1371,16 @@ hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/allure-3d-plants.pw.toml"
+hash = "fbdaaf17902db87a59ebd578d4be201565e5603be337a8e247afe4014c447730"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "0cb5fc8c29fb99530cc20e013347558e198a686420aaf996fa03b9e23fa291dd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
 hash = "739f03f8af2fa7746886d62e7f3ea25a773b5775c74b2b7a47a776510d7e11de"
 metafile = true
@@ -1343,6 +1388,26 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rainbows-foliage.pw.toml"
+hash = "bc43f3308f4db0902c14ba5aa0d719526413f2dfe9baf93c44144c7c7b7df6af"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "3ea639ea86e1b444d00d2d2801386a206f6d7d82484b739fe0ec2d1c63e60c6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "e807f1aad31513adbc43b774a972d298ddfaf400d8526a6f223345ec7b29ea11"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wildvanilla.pw.toml"
+hash = "b1d1fd14feed1ab6ce79d58e5d2f00c376f8552f3728dfca73c89e104b0ef961"
 metafile = true
 
 [[files]]

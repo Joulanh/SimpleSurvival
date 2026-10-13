@@ -1,0 +1,13 @@
+name = "Allure 3D Plants"
+filename = "§e§lAllure 3D Plants§r§0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VhLFOwiA/versions/IEjUstIS/%C2%A7e%C2%A7lAllure%203D%20Plants%C2%A7r%C2%A70.zip"
+hash-format = "sha512"
+hash = "8ff580c553d9025e6336004d8297cbd958551d8c1bfb11e993a3967171b7020b738c1a6442c72936bc1c2292e595bc68f63e6b159a6fe2aa60f607e791e42bc9"
+
+[update]
+[update.modrinth]
+mod-id = "VhLFOwiA"
+version = "IEjUstIS"

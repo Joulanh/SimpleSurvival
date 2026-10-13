@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Explorer's Compass: Crafted with Netherstar",
+    "min_format": [107, 0],
+    "max_format": [107, 1]
+  }
+}

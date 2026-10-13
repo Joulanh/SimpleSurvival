@@ -1,0 +1,13 @@
+name = "Wild Vanilla - Better plants and flowers"
+filename = "Wild_Vanilla v1.0 - 1.21.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dh5S2kX/versions/A8LWI5Oe/Wild_Vanilla%20v1.0%20-%201.21.4.zip"
+hash-format = "sha512"
+hash = "cd9283d0b52d106e776155fbed49ab4832528eda35cca7dc7a2148a88416287b9485d4f85f9868b7eed44c03049587d275c4d3bf476ac6588bbf78f9a401e558"
+
+[update]
+[update.modrinth]
+mod-id = "9dh5S2kX"
+version = "A8LWI5Oe"
