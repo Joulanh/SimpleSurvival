@@ -1,6 +1,6 @@
 name = "Simple Survival"
 author = "Hanjou"
-version = "26.2"
+version = "26.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
