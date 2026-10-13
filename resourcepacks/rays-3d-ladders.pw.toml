@@ -1,6 +1,6 @@
 name = "RAY's 3D Ladders"
 filename = "RAYs_3D_Ladders_v2.4.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Uupo7yGf/versions/lfVriRcD/RAYs_3D_Ladders_v2.4.zip"

@@ -1,6 +1,6 @@
 name = "Allure 3D Plants"
 filename = "§e§lAllure 3D Plants§r§0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VhLFOwiA/versions/IEjUstIS/%C2%A7e%C2%A7lAllure%203D%20Plants%C2%A7r%C2%A70.zip"

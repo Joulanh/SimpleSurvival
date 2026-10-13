@@ -1,6 +1,6 @@
 name = "Wild Vanilla - Better plants and flowers"
 filename = "Wild_Vanilla v1.0 - 1.21.4.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9dh5S2kX/versions/A8LWI5Oe/Wild_Vanilla%20v1.0%20-%201.21.4.zip"

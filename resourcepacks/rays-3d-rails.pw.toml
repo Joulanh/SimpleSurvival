@@ -1,6 +1,6 @@
 name = "RAY's 3D Rails"
 filename = "RAYs_3D_Rails_v3.6.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/jKa9Ievs/versions/vTaYwBqs/RAYs_3D_Rails_v3.6.zip"

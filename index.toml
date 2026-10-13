@@ -18,7 +18,7 @@ hash = "1a101d0d45817e1d9553dae04eecfb6547c6fa728d39c32a7991ae491e52db5e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "990544ddf88b770c145ad37367bccb03f7c48577b89c9ea4ff5018d49af1a714"
+hash = "90a217cbfa2aa59286a1be1ff5971e4a42e7e3b99c878ab13faf67ddad822665"
 
 [[files]]
 file = "config/streamsreflowing.properties"
@@ -1372,12 +1372,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allure-3d-plants.pw.toml"
-hash = "fbdaaf17902db87a59ebd578d4be201565e5603be337a8e247afe4014c447730"
+hash = "02bb83cc0255fb579070a2bd0e2f5d5f2be776178eca98cfb970ec69cb1e8eb5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "0cb5fc8c29fb99530cc20e013347558e198a686420aaf996fa03b9e23fa291dd"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
 
 [[files]]
@@ -1392,22 +1392,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rainbows-foliage.pw.toml"
-hash = "bc43f3308f4db0902c14ba5aa0d719526413f2dfe9baf93c44144c7c7b7df6af"
+hash = "a36f4e0d98665ad15318ab737c97c74ae9d7561f03eda7075731500ee00e361c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
-hash = "3ea639ea86e1b444d00d2d2801386a206f6d7d82484b739fe0ec2d1c63e60c6a"
+hash = "e6669c7db8764e4fbf205202829baa10e1d68168ca63f9c290bf87a631fe7173"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "e807f1aad31513adbc43b774a972d298ddfaf400d8526a6f223345ec7b29ea11"
+hash = "14f7f4a5fe0fe7862bb218312e8ae191980ebe7b9846b15a60c1ce31eb624521"
 metafile = true
 
 [[files]]
 file = "resourcepacks/wildvanilla.pw.toml"
-hash = "b1d1fd14feed1ab6ce79d58e5d2f00c376f8552f3728dfca73c89e104b0ef961"
+hash = "42939434fba070f68def025d814244307318f4173a98a379c5bba84c16dbb804"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "(Bee's) Fancy Crops"
 filename = "Fancy Crops v1.3.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UGEVQ6t9/versions/ZJEBZjg6/Fancy%20Crops%20v1.3.zip"
