@@ -9,6 +9,10 @@ file = "config/firstjoinmessage.json5"
 hash = "f84b518228cd0f3bf15ea6b179aaeab867172e46ef9f59c6e46570086c6ebf67"
 
 [[files]]
+file = "config/mc2_interactivefoliage.json"
+hash = "881fe7daf15da049d4740d1ae9ec79e04c8b3ed52d6a4f173c079d6b997d0ea6"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "1a101d0d45817e1d9553dae04eecfb6547c6fa728d39c32a7991ae491e52db5e"
 
@@ -352,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "29d0039ec486a1ead87788bcb6f21a9e61cbeae7effeb9536d9600e55c8ef166"
+hash = "02ab4751122407f187da5d89b40691749affaa6bcf1994751e26ffdf914fe574"
 metafile = true
 
 [[files]]
@@ -826,6 +830,11 @@ hash = "bf43e03d1d118edf1cc975179b98dc6eb99676826fef6decce5cdc9f01897ea5"
 metafile = true
 
 [[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "db1565a684e748f7883226a25b82c1494d31a16bc03b4adfff74c57406335b80"
+metafile = true
+
+[[files]]
 file = "mods/macaws-betters.pw.toml"
 hash = "4adc53cb09e282c099f913931ffc01d2051d7b7385c0ea7bbfa81014131b259e"
 metafile = true
@@ -872,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc2-interactive-foliage.pw.toml"
-hash = "99c8922f3162045f49bb3f2af9075cf24db5b5cde1b11174e9a25e2d8044d45d"
+hash = "d0d5df5786e58ca8e094852817bfadb76913a1db850bb5b69a652b0e24c974a5"
 metafile = true
 
 [[files]]
@@ -997,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph_plus.pw.toml"
-hash = "b1573be96c2c7fe3b0ede2d3e7f5ee7f62d88509734e84c43b79a586d1fee55d"
+hash = "1fdd450b4ed3123ccfb97cf0ff6540b111c5159092b9dfe7a86cd2d623cf039e"
 metafile = true
 
 [[files]]
@@ -1272,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "7dd2ec7df79839b9bb6962a6c592c8aaa4db28e6499885d8a3362acaf3a9ff06"
+hash = "45491c836e998209bf1de54b6bdc574ccdc9807a9bec4bded170a06125f12a2f"
 metafile = true
 
 [[files]]
@@ -1308,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "8047ce0aeb02d6d5e7ab35b1f00712299c99d50101c8019118aac221a471ab2c"
+metafile = true
+
+[[files]]
+file = "mods/untitled-duck-mod.pw.toml"
+hash = "1b54b69691d9d6eb207b219ec46eba56562090ba02ca7b982b4bf26fd1c6af56"
 metafile = true
 
 [[files]]
