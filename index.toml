@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "3ba531e055b766f08f01c83ebc541c0123d6a6e0e7a1ad69f0588895c2a1e5e3"
+hash = "65b696fc61bb606e0a56dc467aa811eca9e30f9e394bf6cabc66bd115c346165"
 
 [[files]]
 file = "config/firstjoinmessage.json5"
@@ -273,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/blockmeter.pw.toml"
 hash = "c914198b6b27b03762cf34f4a0c7182601f9286410324e1166af0ae041a85ab6"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
 metafile = true
 
 [[files]]
@@ -880,8 +885,8 @@ hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
-file = "mods/mc2-interactive-foliage.pw.toml"
-hash = "d0d5df5786e58ca8e094852817bfadb76913a1db850bb5b69a652b0e24c974a5"
+file = "mods/maplink.pw.toml"
+hash = "7f1fba4f14f556fdbedcafcb42ecbded27fb88e75dd94f3e6781e4d02c4d0adc"
 metafile = true
 
 [[files]]
@@ -1220,11 +1225,6 @@ hash = "f23688399c3f532c3246c63b0e715f8f53dce0b60f7e0e1ed70d2c6989d00d12"
 metafile = true
 
 [[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "2211aeecac943b214e81381c44e978e1e5803eed3392566715aeb134e9b5bc30"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "5821da105eab8946132194047bb31375e7f13b01ff95bc7a093852b31f193e99"
 metafile = true
@@ -1232,11 +1232,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "41e8b0ce6ac069f6894ef9a9b6e94a8754448755da055be0663cfc89c5a7a811"
-metafile = true
-
-[[files]]
-file = "mods/sway.pw.toml"
-hash = "da952a1ded86306f7574c0f2aced353c87ef7bfd63622c1e418eeba86e6492a3"
 metafile = true
 
 [[files]]
