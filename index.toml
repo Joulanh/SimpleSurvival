@@ -17,6 +17,10 @@ file = "config/modernfix-mixins.properties"
 hash = "1a101d0d45817e1d9553dae04eecfb6547c6fa728d39c32a7991ae491e52db5e"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "06474e44c0c17e8378851ef3bfc0822202d27ff7f0ed7f6ce8a1fa20e155e09c"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "ead4aac77bde7f4a4cfcb440dfd619f9ac0a2df2ad356a3572f5d9f36888ca30"
 
@@ -361,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "02ab4751122407f187da5d89b40691749affaa6bcf1994751e26ffdf914fe574"
+hash = "08e3239be08ed6c56bd73ac2378b4dd736eb630bc69a7bca22e286438cba0b73"
 metafile = true
 
 [[files]]
@@ -441,12 +445,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly-steam-n-rails-continued.pw.toml"
-hash = "6c4cdb1e343ccd36bedbaa92c27f0dfdae806bdb16f15cc54d66fd1ad38e726a"
+hash = "993d3241fba646816972fa8564191182c1a7ba5ee3ddd47d9ed17143f1f8bab6"
 metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "6e8c0bc7ad1f7bdd06d6c4e1a413bce7b44489780934f900b68f188afd7e15f8"
+hash = "d48fbc570d8c8199509eb9822ef6061d7e79e52def1d9ebcb567bf6d7ef75239"
 metafile = true
 
 [[files]]
@@ -551,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "6c53a0c2d9913c3b713c8ca6750cb7ead97ef276b425a9c6c466f810c4506a5e"
+hash = "9f303cd437aa94357aba1dc51f34b9e1ebc506d6692a8f8f551a979617c93d6a"
 metafile = true
 
 [[files]]
@@ -566,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dbc18a798e557261741031d5c717f97536308d953826f29361e6334a8acaab2b"
+hash = "1789aeeda8adc714c86d96fd0fa1a01f67ac9d52ffb2dcbdb15bec53331405db"
 metafile = true
 
 [[files]]
@@ -576,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "48838a30508e057894b24bdbbab78b435a6b27f504b7ef9c0f5d178d1e29d403"
+hash = "89c97465a5d1fcad4e30e670ecdf1b94084bc10218493b8f86ed56d6ea5c9c52"
 metafile = true
 
 [[files]]
@@ -1225,6 +1229,11 @@ hash = "f23688399c3f532c3246c63b0e715f8f53dce0b60f7e0e1ed70d2c6989d00d12"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "bea2c4f060b7da07106d4ee428d52789c05b15bad8aa395ca393a093be9ca88f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "5821da105eab8946132194047bb31375e7f13b01ff95bc7a093852b31f193e99"
 metafile = true
@@ -1431,5 +1440,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
+hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
 metafile = true
