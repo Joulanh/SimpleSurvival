@@ -408,10 +408,6 @@ hash = "3f53b3008caf4d9e770452741b6d0b8a628772f86d224a8d3737263a69c6bff5"
 metafile = true
 
 [[files]]
-file = "mods/copycats-create-compat-1.0.0+26.2.jar"
-hash = "cf0a933ac208c143daef068886a5c574fe4c35910b7191ddd1b3cc68777e0055"
-
-[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "cc8f1aab719d9c7bc698cbf68cfca1efbae009665d793f44432c9a8484e31e74"
 metafile = true
@@ -995,6 +991,10 @@ metafile = true
 file = "mods/packed-up-backpacks.pw.toml"
 hash = "e1bb95d5b782451af0673d8df9adca285ed75ac91b00e7630adc42fea552b272"
 metafile = true
+
+[[files]]
+file = "mods/packedup-trashslot-fix-1.0.0+26.2.jar"
+hash = "06b1eaefb82cbe24c32b827b8cc90c7eccd4c3913356d03b969c236e754c3b95"
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
