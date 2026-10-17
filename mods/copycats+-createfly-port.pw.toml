@@ -1,13 +1,13 @@
 name = "Copycats+ CreateFly Port"
-filename = "CopycatsPlus-26.2.jar"
+filename = "Copycats+-Fabric-26.2-v1.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3yqe09Ii/versions/khQfHrm0/CopycatsPlus-26.2.jar"
+url = "https://cdn.modrinth.com/data/3yqe09Ii/versions/joM20Aon/Copycats%2B-Fabric-26.2-v1.16.jar"
 hash-format = "sha512"
-hash = "bb99b535cbf31a2cf02fbee183250bfe31465e044f5152f222ea3bb5ce00297a8831bcc90cb3354e6f60ab83cc848ef1fcdf77d138d6fc3b2954a2c888f23241"
+hash = "dbd51ee9490e7f51afe9df53a20008a2cacc9af30dc36e87297ed0b14aa20eb94a218c7edf50ce985c8fb2223ce186a6e25c49f4b230ebb7197500c2a7cc5c36"
 
 [update]
 [update.modrinth]
 mod-id = "3yqe09Ii"
-version = "khQfHrm0"
+version = "joM20Aon"

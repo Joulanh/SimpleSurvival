@@ -1,0 +1,13 @@
+name = "TrashSlot Blacklist Addon"
+filename = "trashslotblacklist-fabric-26.2-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i4XY1L7/versions/wCf8pkwl/trashslotblacklist-fabric-26.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "3e579d5dc613d4f7f18d7f5cc681a6137f658c95bf20fbf2004a284a0fd0aca9e58aa1dc62c052695ffa0f13e8742a7e3b9bd00d9325ece3eebd77e1deea8ddd"
+
+[update]
+[update.modrinth]
+mod-id = "2i4XY1L7"
+version = "wCf8pkwl"

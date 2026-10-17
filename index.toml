@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats+-createfly-port.pw.toml"
-hash = "b5579f914b11700fb0d0be967ba0641fa4598cd86b311e6db2f1565ca38aa624"
+hash = "3f53b3008caf4d9e770452741b6d0b8a628772f86d224a8d3737263a69c6bff5"
 metafile = true
 
 [[files]]
@@ -1294,6 +1294,16 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-blacklist.pw.toml"
+hash = "e391836a3b10a46665e1153b504601ab0aa570216fcb97acc259e39441ed9365"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "72e2039093707e18d60e7b4fb84431a573614c6d50fe0b532e90f80321865c25"
 metafile = true
 
 [[files]]
