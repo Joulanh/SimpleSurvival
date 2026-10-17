@@ -1,13 +1,13 @@
 name = "Advanced Core Info (ACI)"
-filename = "AdvancedCoreInfo-fabric-26.2-1.4.0.jar"
+filename = "AdvancedCoreInfo-fabric-26.2-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaR4ijFC/versions/tE1XYSCw/AdvancedCoreInfo-fabric-26.2-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/BaR4ijFC/versions/8Kv1nI6q/AdvancedCoreInfo-fabric-26.2-1.5.0.jar"
 hash-format = "sha512"
-hash = "e4fc142c1c82a1a298788146737d2d042336e28bbcfca25d1ee9e257ca0c80819609e5aebf3fb7de6d7579ba73d23ede6669afb2f05f2f58219ab5d6b76306de"
+hash = "43c24cdd14ceb4bdae5c8cbe139a34ae149bbd3a9119e8a6e375351dde7832e359ace78af5b2aa3f59a71a8912a834550b83e560146ddd20612d50284c301110"
 
 [update]
 [update.modrinth]
 mod-id = "BaR4ijFC"
-version = "tE1XYSCw"
+version = "8Kv1nI6q"

@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "65b696fc61bb606e0a56dc467aa811eca9e30f9e394bf6cabc66bd115c346165"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "9e8c6241be646f3fdbfbedfbcf26f1e4344143608c449ebbab9efeab3becaccb"
+
+[[files]]
 file = "config/firstjoinmessage.json5"
 hash = "f84b518228cd0f3bf15ea6b179aaeab867172e46ef9f59c6e46570086c6ebf67"
 
@@ -86,12 +90,12 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-core-info.pw.toml"
-hash = "11d25fa37c23e842abefb18e8213c3891a3139478abfdf2db7cb9bab992b9387"
+hash = "08e0d09bc3eeef526b048083e0e2156130a840c1a4703af669665af8d722a9ec"
 metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "00b7af4613cb6a7c672d048abb2d0c1b7d95ced8b38afdbcd3940cf4c4bd08ea"
+hash = "0b90dbd1734461447048fb326e87a43eee4905182a41a331b0e63971fa0c7c09"
 metafile = true
 
 [[files]]
@@ -365,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "08e3239be08ed6c56bd73ac2378b4dd736eb630bc69a7bca22e286438cba0b73"
+hash = "1855975147b8583a0834fb1b9bb867701d0ada139e7196ff58c2debb4a560eab"
 metafile = true
 
 [[files]]
@@ -402,6 +406,10 @@ metafile = true
 file = "mods/copycats+-createfly-port.pw.toml"
 hash = "b5579f914b11700fb0d0be967ba0641fa4598cd86b311e6db2f1565ca38aa624"
 metafile = true
+
+[[files]]
+file = "mods/copycats-create-compat-1.0.0+26.2.jar"
+hash = "cf0a933ac208c143daef068886a5c574fe4c35910b7191ddd1b3cc68777e0055"
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
@@ -520,17 +528,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "46f52188cf74167cdf734a0c90cd68f7f03cd6d32371947ed6ca32abf0a89b27"
+hash = "5d58e988887e901703b871b9f6dae7cd2a3d714135d42b84fec2a6e75b3f3d11"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "18162e806123b0cf6a6ed88810cbc2aaabf28697ce4b0791a26199bed85510b0"
+hash = "6b2b814acba5e75f4f62c525c9c788fd6557685c9aeed020ca0e6354fce0e58e"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "005a3a72b8866f44aca3d342615f33c9bc7a78c3c87d17a8d08f2bc1b640613a"
+hash = "e517a1808757d8a2d38c191028c30db4753cc4b964f5730bfc6111a54647593b"
 metafile = true
 
 [[files]]
@@ -555,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "9f303cd437aa94357aba1dc51f34b9e1ebc506d6692a8f8f551a979617c93d6a"
+hash = "8af0d296be6a013bf75452d0beb71baeee1ba00691c4394475ea044082ff5694"
 metafile = true
 
 [[files]]
@@ -984,6 +992,11 @@ hash = "37974a3f2fadbac2b37e77f82a680bd69b98d1d69932113b3fd670ad708bd3df"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "e1bb95d5b782451af0673d8df9adca285ed75ac91b00e7630adc42fea552b272"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "b6d28a64320f89c3f191e99ad7653cce0533b26266b628f5738d823c0f962ec8"
 metafile = true
@@ -1215,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "d2315e02961a9c4be57c989c2700c9545f79cef37a1f14a9535c919411b1afb7"
+hash = "a8790b598a9bfabd89488767c017da58e7caebf9d9d36cfe47b8fb5b21e86940"
 metafile = true
 
 [[files]]
@@ -1331,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/useful-carts.pw.toml"
 hash = "3d399751d4f1de0619b2261827a4def8b9bd66d9ef826ce2b824bb653ce5c52e"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-backpacks.pw.toml"
-hash = "aa7b610a63f6006ccb710c3c053f54236906914bdb9a6687fe893abfdd478ac3"
 metafile = true
 
 [[files]]

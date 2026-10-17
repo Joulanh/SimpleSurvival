@@ -1,13 +1,13 @@
 name = "Advanced Loot Info (ALI)"
-filename = "AdvancedLootInfo-fabric-26.2-2.4.0.jar"
+filename = "AdvancedLootInfo-fabric-26.2-2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PEPVViac/versions/VXhkcHk5/AdvancedLootInfo-fabric-26.2-2.4.0.jar"
+url = "https://cdn.modrinth.com/data/PEPVViac/versions/VjIAHw0q/AdvancedLootInfo-fabric-26.2-2.5.0.jar"
 hash-format = "sha512"
-hash = "fb3494ec3aea8c52b10535557c813e94ee30e9d2ce2a63b9cedd8a8404a567c5d10ff2f35cf4988a184d75947a7803965d2e65a389aaf4db12fc50b11a845ba8"
+hash = "0a0806e0fda076ae5513392f8122bea2add6e3f4096e9de3502cc1b7dd1da863fc7d1541d4e7435f6a19d938a62563d3a946e7b64548cf322bc6afc03b5625dd"
 
 [update]
 [update.modrinth]
 mod-id = "PEPVViac"
-version = "VXhkcHk5"
+version = "VjIAHw0q"
