@@ -3,3 +3,5 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+# Eigenes Fix-Ressourcenpaket gehoert ins Pack
+!resourcepacks/simplesurvival-fixes-1.0.zip

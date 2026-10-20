@@ -26,7 +26,7 @@ hash = "06474e44c0c17e8378851ef3bfc0822202d27ff7f0ed7f6ce8a1fa20e155e09c"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ead4aac77bde7f4a4cfcb440dfd619f9ac0a2df2ad356a3572f5d9f36888ca30"
+hash = "5db1ca83ab695d9f94dbd477d4ca9bb9f941fa631bec628b864527fc493d6546"
 
 [[files]]
 file = "config/streamsreflowing.properties"
@@ -1281,6 +1281,10 @@ hash = "3b7a47bee7462b942b54036ac12d3b06708950c624d76ffde1b6dbc0db2dbdd4"
 metafile = true
 
 [[files]]
+file = "mods/simplesurvival-client-fixes-1.0.0+26.2.jar"
+hash = "e7de589b22eaff3bbc5036721210e27146d5f8ff9420893c4afbbd911657195b"
+
+[[files]]
 file = "mods/simply-tents.pw.toml"
 hash = "c61babd50d0de0f672094d4fd2caf5d8a367a8b1f7377ca6d17a4f09c849a7b6"
 metafile = true
@@ -1559,6 +1563,10 @@ metafile = true
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "14f7f4a5fe0fe7862bb218312e8ae191980ebe7b9846b15a60c1ce31eb624521"
 metafile = true
+
+[[files]]
+file = "resourcepacks/simplesurvival-fixes-1.0.zip"
+hash = "1ece833a4dbdb1efd0ce52192456c9bb0653e792a4af24d968d493e767a736c8"
 
 [[files]]
 file = "resourcepacks/wildvanilla.pw.toml"
