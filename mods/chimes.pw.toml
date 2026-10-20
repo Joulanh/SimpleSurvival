@@ -1,0 +1,13 @@
+name = "Chimes"
+filename = "Chimes-v2.1.2-26.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mjGOuygR/versions/djJczP1W/Chimes-v2.1.2-26.2-Fabric.jar"
+hash-format = "sha512"
+hash = "8a78139b02fbedc97ce6514d892ac06377dde80966927d74c5e52eefdfa389d57e0ff09bb088811a66d2760fe8f4330d26cfed753fe57196dfb218181c52d4fd"
+
+[update]
+[update.modrinth]
+mod-id = "mjGOuygR"
+version = "djJczP1W"

@@ -1,0 +1,13 @@
+name = "Kaleidoscope ChineseFood Refabricated"
+filename = "kaleidoscope_chinesefood-1.1.14.2-fabric+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DxxZ6EQ0/versions/As0fg3FW/kaleidoscope_chinesefood-1.1.14.2-fabric%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "7669253ba73c79a267a2cacc9f539a84d9d9a17b2bee7ad7c80037286457e146e20a8f1c4542f170205b10d0db64b23671c38db4f565cbe3da919b42e16824ef"
+
+[update]
+[update.modrinth]
+mod-id = "DxxZ6EQ0"
+version = "As0fg3FW"

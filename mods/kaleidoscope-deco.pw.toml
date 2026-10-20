@@ -1,0 +1,13 @@
+name = "Kaleidoscope Deco"
+filename = "KaleidoscopeDeco-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRT0g2ye/versions/97G9gQ3x/KaleidoscopeDeco-1.4.jar"
+hash-format = "sha512"
+hash = "2fed01cce2c286f3ec6a4353843d454b511ed653cc67084e9f955f3831d85a67977d04c30c053c8252a2718322b1798d9c25bfc538a032f66df5196fff05dc1b"
+
+[update]
+[update.modrinth]
+mod-id = "FRT0g2ye"
+version = "97G9gQ3x"

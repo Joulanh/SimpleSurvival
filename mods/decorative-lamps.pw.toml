@@ -1,0 +1,13 @@
+name = "Decorative Lamps"
+filename = "decorative-lamps_Fabric-26.2-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B4n7BWWA/versions/qDaig7kF/decorative-lamps_Fabric-26.2-1.8.1.jar"
+hash-format = "sha512"
+hash = "f2ea2c192e317deca9a64e4e5f34180d4c22eae7492c9de973571d8b6ec41a00375f940a6f89d74706bef4cd087a3f1a16e77fc980e6d764960b45fea99e3a71"
+
+[update]
+[update.modrinth]
+mod-id = "B4n7BWWA"
+version = "qDaig7kF"

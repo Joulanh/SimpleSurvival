@@ -1,0 +1,13 @@
+name = "Adorn"
+filename = "Adorn-9.0.0+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/OmRBvMca/Adorn-9.0.0%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "f8bf7026ce6325d83322ca312eb35fe7ee66d5944bbab36c2813cee610c81a13a1cd23cb4536dcb9aa90be98e73b23ec1b6ad0e748e128ae45ba4b109688c609"
+
+[update]
+[update.modrinth]
+mod-id = "E6FUtRJh"
+version = "OmRBvMca"
