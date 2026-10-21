@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "613afaa3241faa068088c05d8db6121fbe2968d683e5f25687f582c7ce5992ea"
+hash = "23fd549c908243c8a722044702c81b02981138e45f25f212e4fb6a7ca40431c3"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaleidoscope-end-refabricated.pw.toml"
-hash = "528c3213b1d8c6a1866c51dcbc4b2347169b6f3cfce42dc584b850e9ca0318e2"
+hash = "869f62d6e0311e7e036e1621f48c8e64d471bcfadc19576b5d5c65de9d3457a1"
 metafile = true
 
 [[files]]
