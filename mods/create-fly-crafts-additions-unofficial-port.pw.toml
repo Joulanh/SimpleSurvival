@@ -1,0 +1,13 @@
+name = "Create Fly: Crafts & Additions"
+filename = "createaddition-1.7.2.1+fly-mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7bkhocI9/versions/VF83jNaj/createaddition-1.7.2.1%2Bfly-mc26.2.jar"
+hash-format = "sha512"
+hash = "0f65e5dbb066b6d2f536ef08f2449d8740d9a88bf9f818db7c94917cc6911a38e917bc10006afe0614c114d0a546b91f1603c8a3de11bab2ea578fd41c0c7876"
+
+[update]
+[update.modrinth]
+mod-id = "7bkhocI9"
+version = "VF83jNaj"

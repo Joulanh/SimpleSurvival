@@ -453,6 +453,11 @@ hash = "ea2d0ffa7bceb2e095a4ef7a90dc0a32aedace415b3f5b19f53ec5e25c809bb2"
 metafile = true
 
 [[files]]
+file = "mods/create-fly-crafts-additions-unofficial-port.pw.toml"
+hash = "2a723a36f6af512bdc30cae0822532eaa54f9e6656ea12bd0ffd9d475b7b917c"
+metafile = true
+
+[[files]]
 file = "mods/create-fly-power-loader.pw.toml"
 hash = "37885217d5c5d360cb0aab5652b2cebcc5ed94a88111ef77957da2bbb5148edb"
 metafile = true
