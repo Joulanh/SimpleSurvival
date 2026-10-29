@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "98f51845428b241d43adfa7da330b1a4b8a842ad708ca4382a3ce3ffc3d6fb23"
+hash = "dfeb3e599b5b54350f4cfe5a2f85ae77cbc52fb083cfcd38b4ed1a6025c8e55d"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "bbbaa3ef5dce2f05f4afe2bba744c928824076201cd0d170f14a7bfb16709f4b"
+hash = "e5b2a5131f8a0b3e83eed91ae7f242354cffe142e5a0efe19486d845470ed5a5"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "8d81e8e66364360a12568e9338348d8919711da76ff4e49ac9a1ef9255dad170"
+hash = "b195420b342b27a09ffccf3056c0e737139862d0583da413d1b0041928be7c87"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "23fd549c908243c8a722044702c81b02981138e45f25f212e4fb6a7ca40431c3"
+hash = "56ebd716a6dc09ecca4f58c4be9d2027678ef55fa528762a867fb6548e735baf"
 metafile = true
 
 [[files]]
@@ -450,6 +450,21 @@ metafile = true
 [[files]]
 file = "mods/create-fly-bells-whistles-unofficial-port.pw.toml"
 hash = "ea2d0ffa7bceb2e095a4ef7a90dc0a32aedace415b3f5b19f53ec5e25c809bb2"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-bits-n-bobs-unofficial-port.pw.toml"
+hash = "fe4387bddbdf22101bed5b12a2c4d391d1c6c462779a2a6b3214e88cbd3dfda5"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-blocks-bogies-unofficial-port.pw.toml"
+hash = "91315ddfbe6e8d15bbb3da93a18b39740fd9498c8be0d222714190079e8d585a"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-connected-unofficial-port.pw.toml"
+hash = "8ddf290dbf0002d7ce6cdebabd31a7b57d2bda5835c3bf01758df946a5784634"
 metafile = true
 
 [[files]]
@@ -559,17 +574,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "5d58e988887e901703b871b9f6dae7cd2a3d714135d42b84fec2a6e75b3f3d11"
+hash = "01ba26f918bcd592e0f8391922ca9c23020dc3cfee3ede75900c3568a2c49dc9"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "6b2b814acba5e75f4f62c525c9c788fd6557685c9aeed020ca0e6354fce0e58e"
+hash = "d46443599a625f848c14face118e9a20e681ad1cd416269246d5fc0becf14b87"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "e517a1808757d8a2d38c191028c30db4753cc4b964f5730bfc6111a54647593b"
+hash = "b8c37f2e70920cfa1a591e90c2b144eebc20cefc2e87842323e629d9637713fc"
 metafile = true
 
 [[files]]
@@ -579,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe-reloaded.pw.toml"
-hash = "ed77a6fb10154194029b9beff45bc6364f30ca3ddccc074e42571920d6b56e65"
+hash = "a587aef3b44e7467018ffaf1ae7ed90503378c33112f7b0ef26b0c019ccfeb72"
 metafile = true
 
 [[files]]
@@ -669,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f9b90a1c0eb2edaba96fc82e3f8604f1bc4bbd524137a3ea052c08566386c784"
+hash = "c12b94c159caab53bdb7bbed9b7f825cf3902cb01a96f966fef3064fb08c9e6a"
 metafile = true
 
 [[files]]
@@ -699,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "d70ee8a29bab7131408d4b38dec8150e15a39a4c951d8d5eb9c85e4017c8b7ec"
+hash = "ecf9cf282e502c4d5cb1b01ad835df520134e94791399eae4e08e0009284ecbf"
 metafile = true
 
 [[files]]
@@ -769,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "f5da6bf7664bb4837c228865c9fc7e53c44786a7b9ff0a4e8f5715df9dc72809"
+hash = "caa854084e81c8decbb806ea68d5247025209c6e568743fdd04896ea99e2fe13"
 metafile = true
 
 [[files]]
@@ -843,6 +858,11 @@ hash = "869f62d6e0311e7e036e1621f48c8e64d471bcfadc19576b5d5c65de9d3457a1"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscope-immersive-eating.pw.toml"
+hash = "373411f1ea57a795d502505a32f0b4c179dedf8e17658cba2650f7ada55d3a25"
+metafile = true
+
+[[files]]
 file = "mods/kaleidoscope-nether-refabricated.pw.toml"
 hash = "ce08fb8f5932f8a9c99c69aac40bbd849c169d1c9a24decee6c14541a89f4c4f"
 metafile = true
@@ -853,7 +873,7 @@ hash = "18a37bf18a97b6265b280cfa6a433b1b84cb84b109fac5e2863490b613db3ced"
 
 [[files]]
 file = "mods/kaleidoscope-tavern-refabricated.pw.toml"
-hash = "e3e71a5581f39e14da9369afceebbc68ab28b8aa508d2768d8d404c24e824557"
+hash = "bf80c449e357b7a9918120d89d38aa25b3d0a64cf6c42ea100556bd63932df9a"
 metafile = true
 
 [[files]]
@@ -1004,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/maplink.pw.toml"
 hash = "7f1fba4f14f556fdbedcafcb42ecbded27fb88e75dd94f3e6781e4d02c4d0adc"
+metafile = true
+
+[[files]]
+file = "mods/matlib.pw.toml"
+hash = "02cd702d05319482898d3ba4c0c18c160e9f8b94ab97751e0e0f26d499c566ed"
 metafile = true
 
 [[files]]
@@ -1282,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3b7a47bee7462b942b54036ac12d3b06708950c624d76ffde1b6dbc0db2dbdd4"
+hash = "05af94137652215e9c5c491b679863dba96930c2e6d52316dc695e79739fc2b6"
 metafile = true
 
 [[files]]
@@ -1311,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ca02e4839cbd5d9371c4b5c1eb026f8931eec5550f03c1970a0e9c5e07253489"
+hash = "c0fe3b3c275d87ffa1a53062fc94ef1430e5f4599d3376ca4972773b2b9988e1"
 metafile = true
 
 [[files]]
@@ -1336,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/speed-paths.pw.toml"
-hash = "5848fd0971c7e0f06d4f103d5c5d5a5a4fef459ba6f076aaae90284722394ff0"
+hash = "da7c2ef7b81f827e3ad0d0a0a8eedaaea349fa91f48dcb34e48500563fe4d926"
 metafile = true
 
 [[files]]
@@ -1381,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "41e8b0ce6ac069f6894ef9a9b6e94a8754448755da055be0663cfc89c5a7a811"
+hash = "2bb77cf40d671e58fb72abac04d72ebb275e06c988f75ca0b16147c4048b30d0"
 metafile = true
 
 [[files]]
@@ -1516,12 +1541,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2ada315533849b19a43e463ee4295cb86ca0bfa6976febb446c94aca9753f367"
+hash = "fb5af16d98267bef161288f0793c9693550668c89e339a9221c8596ad8ddf223"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "53136420f7dc97114736da27d70577e47090a153bcd86a1621c6c935ff565b94"
+hash = "b6579fcc1fbfd5b2f765f88a96ec1d1fb91a20ed88c729d6b642b15b7bb9b975"
 metafile = true
 
 [[files]]

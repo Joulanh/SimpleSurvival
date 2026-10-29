@@ -16,10 +16,10 @@ Das Pack hat sehr viele Mods und eine große Sichtweite (Distant Horizons). Mit 
 
 Nicht mehr als etwa die Hälfte deines gesamten RAMs vergeben, Windows/Linux und der Browser brauchen auch etwas.
 
-**Modrinth App:** **Zahnrad** → **Synced settings** → **Java and memory** →
-„Memory allocation“ auf den Wert oben stellen.
+**Modrinth App:** Instanz öffnen → **⋮** bzw. Zahnrad → **Einstellungen** → **Java und Speicher** →
+„Zugewiesener Speicher“ auf den Wert oben stellen.
 
-**Prism Launcher:**  **Bearbeiten** → **Einstellungen** → Reiter **Java** →
+**Prism Launcher:** Instanz auswählen → **Bearbeiten** → **Einstellungen** → Reiter **Java** →
 Haken bei „Speicher“ → **Maximale Speicherzuweisung** auf den Wert oben stellen.
 
 ---
@@ -29,7 +29,7 @@ Haken bei „Speicher“ → **Maximale Speicherzuweisung** auf den Wert oben st
 Java räumt regelmäßig den Speicher auf. Der Standard dafür verursacht bei vielen Mods kurze Ruckler.
 **ZGC** räumt nebenbei auf, ohne das Spiel anzuhalten. Distant Horizons empfiehlt ihn ausdrücklich.
 
-Füge bei den **Java-Argumenten** deines Launchers (direkt unter der RAM einstellung) Folgendes hinzu:
+Füge bei den **Java-Argumenten** deiner Instanz Folgendes hinzu:
 
 ```
 -XX:+UseZGC

@@ -1,13 +1,13 @@
 name = "Beautify: Refabricated"
-filename = "beautify-fabric-3.0.0+26.2.jar"
+filename = "beautify-3.6.0-fabric+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/glraw2Zf/beautify-fabric-3.0.0%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/iKK80bNR/beautify-3.6.0-fabric%2B26.2.jar"
 hash-format = "sha512"
-hash = "8bcb8334defa013eafc56357a8329dba1b23067900789ea0ef51ed74079ce16b3546e8aef4cf516ae1a1428decbcdddde0de824c65d4220812a5ab85ad42dd66"
+hash = "d8f231dda13995d6e8159e2a6b2144480ff3e9de4cc049cb1edec69cee71fdff71f93836963e43f6508bb1ff9e411b96374ffdde44ac94ff5bb662a51894343a"
 
 [update]
 [update.modrinth]
 mod-id = "DhSSvaxs"
-version = "glraw2Zf"
+version = "iKK80bNR"
