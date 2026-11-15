@@ -1,13 +1,13 @@
 name = "Wunderreich"
-filename = "wunderreich-26.201.3.jar"
+filename = "wunderreich-26.201.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P6czZwFh/versions/sVuMQu0L/wunderreich-26.201.3.jar"
+url = "https://cdn.modrinth.com/data/P6czZwFh/versions/mI4CAuax/wunderreich-26.201.4.jar"
 hash-format = "sha512"
-hash = "365ecd2fd7d63ab964312b4568842d7e79b4f806d84467b170f9ffc99f5e2a40a05667dbd8afc057ae109f25eb53b880a6182b938528f5b93ebfcfe955cf4a9d"
+hash = "8992ba1aecd34a2abae55f8245b8f98261d8523889e1f30b46cc43bf401ecf50ccebffbd7d1df82233ea2eea6fe5e20e817696c6b550a312e7ffba95c04109b0"
 
 [update]
 [update.modrinth]
 mod-id = "P6czZwFh"
-version = "sVuMQu0L"
+version = "mI4CAuax"

@@ -1,13 +1,13 @@
 name = "Kaleidoscope Tavern Refabricated"
-filename = "kaleidoscope_tavern-1.2.0.13-fabric+mc26.2.jar"
+filename = "kaleidoscope_tavern-1.2.0.15-fabric+mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UMblNdlF/versions/o1wBLTt3/kaleidoscope_tavern-1.2.0.13-fabric%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/UMblNdlF/versions/wTUVMeiZ/kaleidoscope_tavern-1.2.0.15-fabric%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "7b75cd2dd2e6a6e98eadf2501d12869c7fae4d0f4a251c564db2aa416b625db868e3c2b097b200fbc72f4e9812568842d9fd8b3c9a2eeaf23c2b7da35827783a"
+hash = "c20eb624632cfb8298e8826f8530b6063fe5a575bec999d3a05db6e8bfb1a916f95c6ceaec3c36e036013d46412472262a914ba7d7db511ff4e83bbc14bfa76e"
 
 [update]
 [update.modrinth]
 mod-id = "UMblNdlF"
-version = "o1wBLTt3"
+version = "wTUVMeiZ"

@@ -1,13 +1,13 @@
 name = "Speed Paths"
-filename = "speed-paths-3.7.4.jar"
+filename = "speed-paths-4.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2KSlu1VD/versions/oRnLpcFo/speed-paths-3.7.4.jar"
+url = "https://cdn.modrinth.com/data/2KSlu1VD/versions/dB7pxKOa/speed-paths-4.0.2.jar"
 hash-format = "sha512"
-hash = "dc7335cf4d96c8c9dc0d9b9f0f57ba94e3536be9740e611ad499bb8df546ac77284e51d059dac038d9d3a8886afa20ec281d0c1bc628f22bbc962d6d44501437"
+hash = "2c5f68522995def2ed581e0227577dfe4bb049113d5c44a4ae8df462c6cb8da1ab2577bead78d7c3e292d15024fe0ebb6f5d159a0273a13342ee4daa1c018722"
 
 [update]
 [update.modrinth]
 mod-id = "2KSlu1VD"
-version = "oRnLpcFo"
+version = "dB7pxKOa"

@@ -1,13 +1,13 @@
 name = "Create Fly: Blocks & Bogies (Unofficial Port)"
-filename = "BlocksAndBogies-1.0.8.1+fly-mc26.2.jar"
+filename = "BlocksAndBogies-1.0.8.2+fly-mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SJrIeJda/versions/AiMGcsCS/BlocksAndBogies-1.0.8.1%2Bfly-mc26.2.jar"
+url = "https://cdn.modrinth.com/data/SJrIeJda/versions/5I9TGcWS/BlocksAndBogies-1.0.8.2%2Bfly-mc26.2.jar"
 hash-format = "sha512"
-hash = "1a44a99d7805931486f59243a907c83f623ab85c184fe9d4bd642bd99c1542191ccba6640a06af0ecd10e2a0b59480d20986c6443e49293ee3d166cb09e11c72"
+hash = "7160296d89ba68968571e98c37cb798bbb5f1e6c195304972e3a495c20f33d1bc572dfda346428fdb6622d35d132474f84ff2435ef367a634d273e4e53646690"
 
 [update]
 [update.modrinth]
 mod-id = "SJrIeJda"
-version = "AiMGcsCS"
+version = "5I9TGcWS"

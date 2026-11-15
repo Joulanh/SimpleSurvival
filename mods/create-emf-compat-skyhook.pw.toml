@@ -1,13 +1,13 @@
 name = "EMF Compat: Create"
-filename = "emf_compat_create_fabric_26.2_2.1.0.jar"
+filename = "emf_compat_create_fabric_26.2_2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9McOdzy/versions/3gejvBNe/emf_compat_create_fabric_26.2_2.1.0.jar"
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/rKFM6p5w/emf_compat_create_fabric_26.2_2.1.1.jar"
 hash-format = "sha512"
-hash = "47bcd63a4e0c58e74b63660efb8271445c4da4a99d78d19ead5e1b92cd757c69e15106cf5804ba7ca4c46bfa393506283467f38242c857ec3b0fe8ce34b00004"
+hash = "e1c01c3675454e349855d425dfbe567c5d2ea78646eccc37c58894779918f562576f179957d68744186efd8fb457ac621553c5f68aaa57213a6646ae7e4c2104"
 
 [update]
 [update.modrinth]
 mod-id = "J9McOdzy"
-version = "3gejvBNe"
+version = "rKFM6p5w"

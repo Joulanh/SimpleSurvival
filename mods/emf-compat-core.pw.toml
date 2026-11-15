@@ -1,13 +1,13 @@
 name = "EMF Compat: Core"
-filename = "emf_compat_core_fabric_26.2_2.3.2.jar"
+filename = "emf_compat_core_fabric_26.2_2.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hbGct5uU/versions/Qt2nJ3jp/emf_compat_core_fabric_26.2_2.3.2.jar"
+url = "https://cdn.modrinth.com/data/hbGct5uU/versions/nvrwQEfY/emf_compat_core_fabric_26.2_2.4.0.jar"
 hash-format = "sha512"
-hash = "d1de1e2c93719108a833e61a384f3c824715ad64e55aba569ecc02acda26f2cbaccdab1733137aa4203505dee86b6aaa26432e4c8736b02272e5f29b8f92cb66"
+hash = "02f5b0ae3f28859df168644919d813fcca2ab4cbdc810b768c0959ff4d646303b725141fd44a228332fbf3148382a419801df9774371036d71c71659d0199823"
 
 [update]
 [update.modrinth]
 mod-id = "hbGct5uU"
-version = "Qt2nJ3jp"
+version = "nvrwQEfY"

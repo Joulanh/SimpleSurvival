@@ -1,13 +1,13 @@
 name = "Fresh Animations: Extensions"
-filename = "FA+All_Extensions-v1.9.2.zip"
+filename = "FA+All_Extensions-v1.10.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip"
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/zphVu6Oe/FA%2BAll_Extensions-v1.10.1.zip"
 hash-format = "sha512"
-hash = "3c4ab508aba2bbb79b5d73caa7bac77f2caca075dbe09f64f8af35851ae04a41d81973a268ed5b99c75efe60db9d69715e4e01838410b55e1224a6ce856286cd"
+hash = "7accd41fc3b4286e08085b3dcc3818c6c4d1c0e4a90d6b13bed125a827131531706d20c62ec87edd271c8880077c25d7731acaae88e5f5ec0fa92f5600e6859e"
 
 [update]
 [update.modrinth]
 mod-id = "YAVTU8mK"
-version = "R5ZGSF8A"
+version = "zphVu6Oe"

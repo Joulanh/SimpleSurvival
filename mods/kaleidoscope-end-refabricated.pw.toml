@@ -1,6 +1,7 @@
 name = "Kaleidoscope End Refabricated"
 filename = "kaleidoscope_end-1.1.0-fabric+mc26.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/B1KCNlDN/versions/PEMhxLxY/kaleidoscope_end-1.1.0-fabric%2Bmc26.2.jar"
