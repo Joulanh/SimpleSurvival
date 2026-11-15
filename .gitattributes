@@ -1,2 +1,6 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * text eol=lf
+# Binaries must never be converted (eol=lf corrupted jars/zips containing CRLF byte pairs)
+*.jar binary
+*.zip binary
+*.png binary
